@@ -12,6 +12,9 @@
 ![License](https://img.shields.io/badge/License-Portfolio-green)
 
 ---
+## Live Demo
+
+🔗 https://retail-iq-eosin.vercel.app
 
 # Overview
 
