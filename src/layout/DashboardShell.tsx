@@ -64,7 +64,7 @@ export default function DashboardShell() {
         <Header role={role} onMenuClick={() => setSidebarOpen(true)} controls={controls} />
         
         {/* THIS is the scroll container */}
-        <div className="flex-1 overflow-y-auto">
+        <div id="dashboard-scroll-container" className="flex-1 overflow-y-auto">
           <div className="px-4 pb-16 sm:px-6 lg:px-8">
             <Outlet context={{ role, controls }} />
           </div>
