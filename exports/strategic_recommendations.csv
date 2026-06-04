@@ -1,0 +1,10 @@
+Area,Evidence,Recommendation,Business_Impact,Priority
+Customer Recovery,At Risk customers account for 1.9% of segment revenue.,"Run targeted win-back campaigns, proactive follow-ups, and time-bound retention offers for At Risk customers.",Revenue Impact,High
+Customer Strategy,Champions contributes the highest revenue share.,"Protect and grow Champions with loyalty rewards, upsell offers, and personalized engagement.",Retention Impact,High
+Discount Strategy,The weakest discount band is 50%+ with margin -111.02%.,Reduce discount exposure in weak bands and reserve heavy discounts for clearance or targeted acquisition only.,Margin Impact,High
+Pareto Strategy,The top 8 sub-categories contribute roughly 80% of sales.,"Concentrate supplier negotiations, inventory attention, and promotional effort on these high-impact sub-categories.",Revenue Impact,High
+Product Portfolio,3 sub-categories are Core Winners; top margin performer is Accessories.,"Prioritize Core Winners in inventory planning, merchandising, and promotional spend.",Revenue Impact,High
+Product Portfolio,1 sub-categories are Loss Makers; weakest performer is Tables.,"Review pricing, discounting, bundling, or rationalize the worst-performing Loss Makers if losses persist.",Margin Impact,High
+Discount Strategy,The strongest discount band is 0% with margin 25.32%.,Prioritize controlled discount bands that support conversion without eroding margin.,Margin Impact,Medium
+Forecast Strategy,"The model projects approximately $2,361,615 total sales over the forecast horizon.","Use the forecast to plan inventory, staffing, and campaign timing in advance.",Operational Impact,Medium
+Product Portfolio,6 sub-categories are Hidden Gems; Paper is the strongest scaling candidate.,Increase exposure for Hidden Gems and test controlled scaling with modest promotion support.,Revenue Impact,Medium

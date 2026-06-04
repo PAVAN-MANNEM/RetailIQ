@@ -1,0 +1,1591 @@
+Customer_ID,Customer_Name,Recency,Frequency,Monetary,R_Score,F_Score,M_Score,RFM_Score,Segment
+GT-14710,Greg Tran,9,30,34471.89028,5,5,5,15,Champions
+SE-20110,Sanjit Engle,10,36,29532.62502,5,5,5,15,Champions
+ZC-21910,Zuschuss Carroll,4,37,28472.81926,5,5,5,15,Champions
+SP-20920,Susan Pistek,7,28,28124.21286,5,5,5,15,Champions
+NF-18385,Natalie Fritzler,8,32,28044.3595,5,5,5,15,Champions
+FH-14365,Fred Hopkins,2,30,27649.32652,5,5,5,15,Champions
+HM-14860,Harry Marie,2,37,27434.1676,5,5,5,15,Champions
+AF-10870,Art Ferguson,7,36,26487.2585,5,5,5,15,Champions
+MY-18295,Muhammed Yedwab,1,29,25570.49418,5,5,5,15,Champions
+BM-11140,Becky Martin,9,29,25312.2927,5,5,5,15,Champions
+PO-18850,Patrick O'Brill,5,41,25274.4702,5,5,5,15,Champions
+EM-13960,Eric Murdock,3,37,25228.52948,5,5,5,15,Champions
+ME-17320,Maria Etezadi,6,30,24527.029,5,5,5,15,Champions
+TP-21130,Theone Pippenger,3,37,22697.57728,5,5,5,15,Champions
+JE-15715,Joe Elijah,10,36,22275.2689,5,5,5,15,Champions
+JB-16000,Joy Bell-,2,32,22127.18112,5,5,5,15,Champions
+JG-15805,John Grady,1,37,22015.3862,5,5,5,15,Champions
+SC-20695,Steve Chapman,10,35,21931.0435,5,5,5,15,Champions
+JK-16090,Juliana Krohn,9,33,21918.73684,5,5,5,15,Champions
+MC-17635,Matthew Clasen,6,34,21113.5107,5,5,5,15,Champions
+PO-18865,Patrick O'Donnell,1,35,21051.0598,5,5,5,15,Champions
+GZ-14470,Gary Zandusky,8,35,20869.699,5,5,5,15,Champions
+MF-18250,Monica Federle,8,32,20425.299600000002,5,5,5,15,Champions
+MM-17920,Michael Moore,8,33,20383.654,5,5,5,15,Champions
+AH-10210,Alan Hwang,7,34,20365.74018,5,5,5,15,Champions
+MS-17365,Maribeth Schnelling,6,34,20317.0067,5,5,5,15,Champions
+EH-13765,Edward Hooks,3,29,20259.916,5,5,5,15,Champions
+CP-12340,Christine Phan,9,30,20109.46928,5,5,5,15,Champions
+JG-15160,James Galang,2,32,19963.41,5,5,5,15,Champions
+JF-15565,Jill Fjeld,2,29,19844.14866,5,5,5,15,Champions
+DK-13090,Dave Kipp,9,36,19178.6392,5,5,5,15,Champions
+SP-20620,Stefania Perrino,6,31,19113.6707,5,5,5,15,Champions
+BM-11785,Bryan Mills,3,36,18446.8529,5,5,5,15,Champions
+JD-16150,Justin Deggeller,1,28,18281.84948,5,5,5,15,Champions
+KH-16690,Kristen Hastings,3,39,18158.4601,5,5,5,15,Champions
+AH-10075,Adam Hart,3,34,18109.86142,5,5,5,15,Champions
+JJ-15760,Joel Jenkins,3,28,18103.64108,5,5,5,15,Champions
+GD-14590,Giulietta Dortch,6,29,18005.0006,5,5,5,15,Champions
+CL-12700,Craig Leslie,9,31,17943.6508,5,5,5,15,Champions
+PK-19075,Pete Kriz,9,29,17668.910499999998,5,5,5,15,Champions
+BS-11755,Bruce Stewart,2,29,17557.4595,5,5,5,15,Champions
+LT-16765,Larry Tron,7,30,17253.78294,5,5,5,15,Champions
+RB-19465,Rick Bensley,1,36,17178.4394,5,5,5,15,Champions
+JF-15190,Jamie Frazer,7,28,17064.7075,5,5,5,15,Champions
+CL-12565,Clay Ludtke,6,30,17008.13588,5,5,5,15,Champions
+TS-21340,Toby Swindell,9,31,16997.02948,5,5,5,15,Champions
+JD-15895,Jonathan Doherty,7,32,16711.32422,5,5,5,15,Champions
+KM-16375,Katherine Murray,3,28,16394.46064,5,5,5,15,Champions
+MG-18205,Mitch Gastineau,3,29,16362.8956,5,5,5,15,Champions
+JM-15655,Jim Mitchum,9,34,16294.727060000001,5,5,5,15,Champions
+VW-21775,Victoria Wilson,7,30,15785.3774,5,5,5,15,Champions
+DM-13015,Darrin Martin,6,30,15626.5318,5,5,5,15,Champions
+DJ-13510,Don Jones,7,31,15420.2879,5,5,5,15,Champions
+BP-11185,Ben Peterman,2,28,15376.031719999999,5,5,5,15,Champions
+SV-20935,Susan Vittorini,1,28,15197.6927,5,5,5,15,Champions
+RF-19840,Roy Französisch,7,31,15077.47568,5,5,5,15,Champions
+MC-17845,Michael Chen,2,31,14947.88402,5,5,5,15,Champions
+DK-12985,Darren Koutras,2,35,14823.9685,5,5,5,15,Champions
+HG-15025,Hunter Glantz,7,29,14737.8066,5,5,5,15,Champions
+TZ-21445,Tom Zandusky,9,28,14601.6714,5,5,5,15,Champions
+KB-16315,Karl Braun,3,29,14542.76228,5,5,5,15,Champions
+AG-10330,Alex Grayson,9,29,14534.50618,5,5,5,15,Champions
+MG-17875,Michael Grace,6,33,14452.82062,5,5,5,15,Champions
+ML-17755,Max Ludwig,2,28,14425.1044,5,5,5,15,Champions
+DR-12880,Dan Reichenbach,4,32,14415.3383,5,5,5,15,Champions
+FM-14215,Filia McAdams,8,31,14353.3978,5,5,5,15,Champions
+HJ-14875,Heather Jas,6,32,14312.7962,5,5,5,15,Champions
+LA-16780,Laura Armstrong,14,34,24273.0019,4,5,5,14,Champions
+AM-10705,Anne McFarland,26,30,24218.5645,4,5,5,14,Champions
+JH-15820,John Huston,14,31,23586.7205,4,5,5,14,Champions
+BH-11710,Brosina Hoffman,24,31,23537.335,4,5,5,14,Champions
+BN-11470,Brad Norvell,12,29,23378.10388,4,5,5,14,Champions
+BF-11005,Barry Franz,9,25,23347.83866,5,4,5,14,Champions
+SW-20755,Steven Ward,16,31,23321.579999999998,4,5,5,14,Champions
+JW-15220,Jane Waco,13,34,23103.7263,4,5,5,14,Champions
+JL-15835,John Lee,22,30,22594.043,4,5,5,14,Champions
+VG-21805,Vivek Grady,3,23,22573.37116,5,4,5,14,Champions
+BS-11365,Bill Shonely,1,26,22551.02596,5,4,5,14,Champions
+BF-11170,Ben Ferrer,17,31,22314.84044,4,5,5,14,Champions
+Dp-13240,Dean percer,19,28,22225.61032,4,5,5,14,Champions
+DP-13165,David Philippe,8,25,22211.28212,5,4,5,14,Champions
+DJ-13420,Denny Joy,23,28,22142.43114,4,5,5,14,Champions
+MP-18175,Mike Pelletier,17,36,22045.252800000002,4,5,5,14,Champions
+EM-14140,Eugene Moren,25,30,21507.29126,4,5,5,14,Champions
+AS-10225,Alan Schoenberger,13,28,21366.8987,4,5,5,14,Champions
+HG-14845,Harry Greene,13,30,21228.55452,4,5,5,14,Champions
+MW-18220,Mitch Webber,18,28,20592.081299999998,4,5,5,14,Champions
+TS-21610,Troy Staebel,21,30,20565.95,4,5,5,14,Champions
+EB-13840,Ellis Ballard,3,25,20188.15894,5,4,5,14,Champions
+SS-20140,Saphhira Shifley,16,32,20138.603039999998,4,5,5,14,Champions
+CS-12460,Chuck Sachs,7,23,20084.21728,5,4,5,14,Champions
+GH-14425,Gary Hwang,19,31,20039.763,4,5,5,14,Champions
+AB-10015,Aaron Bergman,17,32,20037.4975,4,5,5,14,Champions
+YC-21895,Yoseph Carroll,5,27,19998.0786,5,4,5,14,Champions
+JW-16075,Julia West,2,25,19852.773,5,4,5,14,Champions
+KN-16390,Katherine Nockton,20,29,19350.14634,4,5,5,14,Champions
+JS-16030,Joy Smith,22,32,19218.81298,4,5,5,14,Champions
+PB-19210,Phillip Breyer,9,27,18967.662,5,4,5,14,Champions
+DP-13105,Dave Poirier,7,25,18930.032199999998,5,4,5,14,Champions
+JH-15985,Joseph Holt,12,38,18863.4044,4,5,5,14,Champions
+YS-21880,Yana Sorensen,10,26,18703.606,5,4,5,14,Champions
+TT-21460,Tonja Turnell,13,32,18432.013460000002,4,5,5,14,Champions
+RB-19330,Randy Bradley,16,32,18359.76862,4,5,5,14,Champions
+CD-11920,Carlos Daly,3,27,18296.7474,5,4,5,14,Champions
+MG-18145,Mike Gockenbach,3,24,18147.9582,5,4,5,14,Champions
+VT-21700,Valerie Takahito,8,25,18099.3061,5,4,5,14,Champions
+ED-13885,Emily Ducich,16,31,18018.879,4,5,5,14,Champions
+BE-11455,Brad Eason,4,27,17643.5253,5,4,5,14,Champions
+CL-11890,Carl Ludwig,14,31,17622.41136,4,5,5,14,Champions
+DK-12835,Damala Kotsonis,22,32,17590.5547,4,5,5,14,Champions
+KA-16525,Kelly Andreada,17,35,17449.90012,4,5,5,14,Champions
+SR-20740,Steven Roelle,24,33,17220.18,4,5,5,14,Champions
+CC-12475,Cindy Chapman,17,30,17159.80046,4,5,5,14,Champions
+JA-15970,Joseph Airdo,1,25,17105.4707,5,4,5,14,Champions
+LC-16885,Lena Creighton,17,29,17058.8144,4,5,5,14,Champions
+DM-13345,Denise Monton,3,27,17054.8905,5,4,5,14,Champions
+NC-18625,Noah Childs,21,29,16901.51758,4,5,5,14,Champions
+CM-11830,Cari MacIntyre,7,24,16828.819,5,4,5,14,Champions
+CC-12610,Corey Catlett,17,29,16822.64,4,5,5,14,Champions
+RA-19285,Ralph Arnett,6,24,16816.427,5,4,5,14,Champions
+HG-14965,Henry Goldwyn,24,34,16810.6866,4,5,5,14,Champions
+SD-20485,Shirley Daniels,16,32,16802.0649,4,5,5,14,Champions
+DL-13330,Denise Leinenbach,13,34,16781.631,4,5,5,14,Champions
+AM-10360,Alice McCarthy,16,33,16730.3296,4,5,5,14,Champions
+MB-17305,Maria Bertelson,2,27,16729.34532,5,4,5,14,Champions
+WB-21850,William Brown,21,38,16704.6612,4,5,5,14,Champions
+RD-19480,Rick Duston,1,27,16487.1909,5,4,5,14,Champions
+MD-17350,Maribeth Dona,27,30,16455.32732,4,5,5,14,Champions
+JP-15520,Jeremy Pistek,9,26,16429.04996,5,4,5,14,Champions
+RD-19585,Rob Dowd,26,31,16315.107899999999,4,5,5,14,Champions
+EP-13915,Emily Phan,13,33,16283.35774,4,5,5,14,Champions
+DK-13375,Dennis Kane,5,26,16258.534,5,4,5,14,Champions
+MG-17695,Maureen Gnade,1,25,16221.6268,5,4,5,14,Champions
+AS-10285,Alejandro Savely,19,30,16179.86246,4,5,5,14,Champions
+RP-19390,Resi Pölking,16,34,16114.907500000001,4,5,5,14,Champions
+DK-13150,David Kendrick,11,22,15983.711,5,4,5,14,Champions
+MM-17260,Magdelene Morse,5,26,15713.71812,5,4,5,14,Champions
+TT-21070,Ted Trevino,15,31,15673.063900000001,4,5,5,14,Champions
+FO-14305,Frank Olsen,23,37,15614.2155,4,5,5,14,Champions
+LP-17095,Liz Preis,10,26,15598.1516,5,4,5,14,Champions
+MV-18190,Mike Vittorini,20,30,15577.035600000001,4,5,5,14,Champions
+SW-20275,Scott Williamson,22,33,15564.966699999999,4,5,5,14,Champions
+AR-10825,Anthony Rawles,23,38,15311.035600000001,4,5,5,14,Champions
+SZ-20035,Sam Zeldin,14,37,15192.376,4,5,5,14,Champions
+MC-17425,Mark Cousins,24,30,15055.40518,4,5,5,14,Champions
+AS-10090,Adam Shillingsburg,16,32,15009.47272,4,5,5,14,Champions
+RR-19525,Rick Reed,1,27,15009.2866,5,4,5,14,Champions
+NS-18505,Neola Schneider,7,25,14834.28974,5,4,5,14,Champions
+JF-15415,Jennifer Ferguson,3,23,14717.46588,5,4,5,14,Champions
+BG-11740,Bruce Geld,7,24,14689.342499999999,5,4,5,14,Champions
+PG-18820,Patrick Gardner,21,35,14635.9446,4,5,5,14,Champions
+ML-17395,Marina Lichtenstein,1,25,14507.07948,5,4,5,14,Champions
+AR-10510,Andrew Roberts,15,29,14277.88536,4,5,5,14,Champions
+CS-11950,Carlos Soltero,26,31,14222.97134,4,5,5,14,Champions
+ST-20530,Shui Tom,7,32,14064.01106,5,5,4,14,Champions
+CC-12430,Chuck Clark,1,29,13997.592560000001,5,5,4,14,Champions
+SC-20725,Steven Cartwright,8,30,13975.42408,5,5,4,14,Champions
+TG-21640,Trudy Glocke,6,33,13973.7773,5,5,4,14,Champions
+PG-18895,Paul Gonzalez,3,28,13941.6862,5,5,4,14,Champions
+CK-12205,Chloris Kastensmidt,5,38,13625.20784,5,5,4,14,Champions
+EB-13975,Erica Bern,1,32,13405.6013,5,5,4,14,Champions
+BD-11320,Bill Donatelli,6,32,13390.267,5,5,4,14,Champions
+MG-17890,Michael Granlund,6,29,13162.2489,5,5,4,14,Champions
+JB-15400,Jennifer Braxton,8,34,13085.5039,5,5,4,14,Champions
+SF-20200,Sarah Foster,6,28,13019.6294,5,5,4,14,Champions
+AT-10735,Annie Thurman,3,29,12984.1049,5,5,4,14,Champions
+MP-17470,Mark Packer,6,28,12928.8028,5,5,4,14,Champions
+GH-14665,Greg Hansen,3,29,12921.45162,5,5,4,14,Champions
+JL-15130,Jack Lebron,9,28,12908.49914,5,5,4,14,Champions
+ES-14020,Erica Smith,1,32,12827.272939999999,5,5,4,14,Champions
+PW-19030,Pauline Webber,8,31,12810.05846,5,5,4,14,Champions
+AC-10615,Ann Chong,7,29,12729.72448,5,5,4,14,Champions
+LB-16735,Larry Blacks,10,29,12686.03922,5,5,4,14,Champions
+PV-18985,Paul Van Hugh,9,28,12540.661,5,5,4,14,Champions
+DW-13585,Dorothy Wardle,6,37,12143.0436,5,5,4,14,Champions
+GM-14680,Greg Matthias,2,31,12010.60944,5,5,4,14,Champions
+PF-19225,Phillip Flathmann,3,30,11915.1997,5,5,4,14,Champions
+TB-21250,Tim Brockman,3,28,11830.0907,5,5,4,14,Champions
+JH-15430,Jennifer Halladay,6,31,11806.1963,5,5,4,14,Champions
+LO-17170,Lori Olson,3,28,11256.3236,5,5,4,14,Champions
+CS-12490,Cindy Schnelling,3,30,11110.4965,5,5,4,14,Champions
+BD-11725,Bruce Degenhardt,5,30,10877.827,5,5,4,14,Champions
+AB-10255,Alejandro Ballentine,6,31,10786.7164,5,5,4,14,Champions
+TC-21475,Tony Chapman,2,29,10722.52656,5,5,4,14,Champions
+JW-15955,Joni Wasserman,6,30,10640.8287,5,5,4,14,Champions
+SC-20020,Sam Craven,9,34,10579.47,5,5,4,14,Champions
+EH-14005,Erica Hernandez,3,28,10374.9381,5,5,4,14,Champions
+KH-16360,Katherine Hughes,2,28,9983.5094,5,5,4,14,Champions
+TA-21385,Tom Ashbrook,19,25,35668.120800000004,4,4,5,13,Champions
+TC-20980,Tamara Chand,28,28,34218.269,3,5,5,13,Champions
+PS-19045,Penelope Sewall,21,26,29252.3194,4,4,5,13,Champions
+RB-19360,Raymond Buch,21,25,29197.634599999998,4,4,5,13,Champions
+CC-12370,Christopher Conant,44,30,28229.8514,3,5,5,13,Champions
+BE-11335,Bill Eplett,36,37,27158.0184,3,5,5,13,Champions
+DR-12940,Daniel Raglin,28,33,25641.46492,3,5,5,13,Champions
+KD-16495,Keith Dawkins,47,36,24996.5031,3,5,5,13,Champions
+LB-16795,Laurel Beltran,40,31,24589.87022,3,5,5,13,Champions
+DB-13060,Dave Brooks,17,26,23476.91166,4,4,5,13,Champions
+KD-16270,Karen Daniels,37,29,23204.2675,3,5,5,13,Champions
+AB-10105,Adrian Barton,28,33,22966.78,3,5,5,13,Champions
+KL-16645,Ken Lonsdale,48,28,22553.1085,3,5,5,13,Champions
+LR-16915,Lena Radford,27,26,22434.08756,4,4,5,13,Champions
+TB-21400,Tom Boeckenhauer,26,26,21375.988,4,4,5,13,Champions
+CA-11965,Carol Adams,19,26,21110.5214,4,4,5,13,Champions
+RA-19915,Russell Applegate,13,27,20975.19342,4,4,5,13,Champions
+JK-15730,Joe Kamberova,49,34,20825.892,3,5,5,13,Champions
+CS-11845,Cari Sayre,16,26,20471.0526,4,4,5,13,Champions
+SC-20230,Scot Coram,17,25,20333.868,4,4,5,13,Champions
+NM-18445,Nathan Mautz,31,32,20223.2359,3,5,5,13,Champions
+BG-11035,Barry Gonzalez,29,33,19899.1474,3,5,5,13,Champions
+DM-12955,Dario Medina,41,32,19862.57592,3,5,5,13,Champions
+JE-15745,Joel Eaton,33,35,19629.12896,3,5,5,13,Champions
+OT-18730,Olvera Toch,34,32,19493.76566,3,5,5,13,Champions
+CR-12730,Craig Reiter,23,24,19487.963760000002,4,4,5,13,Champions
+TC-21295,Toby Carlisle,28,29,19391.8981,3,5,5,13,Champions
+GK-14620,Grace Kelly,13,24,19215.7699,4,4,5,13,Champions
+NH-18610,Nicole Hansen,21,22,19181.9263,4,4,5,13,Champions
+RB-19795,Ross Baird,33,35,19056.88134,3,5,5,13,Champions
+NG-18430,Nathan Gelder,28,28,18970.41454,3,5,5,13,Champions
+RO-19780,Rose O'Brian,36,29,18833.4355,3,5,5,13,Champions
+JL-15235,Janet Lee,14,24,18725.38964,4,4,5,13,Champions
+DL-13315,Delfina Latchford,19,27,18505.6005,4,4,5,13,Champions
+CA-12265,Christina Anderson,35,31,18472.6689,3,5,5,13,Champions
+TC-21145,Theresa Coyne,12,25,18419.94306,4,4,5,13,Champions
+AB-10060,Adam Bellavance,43,32,18416.5504,3,5,5,13,Champions
+PS-18970,Paul Stevenson,28,33,18222.40482,3,5,5,13,Champions
+QJ-19255,Quincy Jones,26,23,18192.9231,4,4,5,13,Champions
+DV-13045,Darrin Van Huff,20,24,18106.01292,4,4,5,13,Champions
+MW-18235,Mitch Willingham,17,24,17933.0609,4,4,5,13,Champions
+CM-12160,Charles McCrossin,27,26,17910.03942,4,4,5,13,Champions
+JC-15340,Jasper Cacioppo,35,29,17836.2846,3,5,5,13,Champions
+ON-18715,Odella Nelson,48,33,17763.94824,3,5,5,13,Champions
+TS-21505,Tony Sayre,12,27,17613.4163,4,4,5,13,Champions
+MS-17770,Maxwell Schwartz,35,36,17382.93504,3,5,5,13,Champions
+CR-12625,Corey Roper,44,28,17271.20568,3,5,5,13,Champions
+MP-17965,Michael Paige,28,39,17228.4977,3,5,5,13,Champions
+HW-14935,Helen Wasserman,35,28,17199.202,3,5,5,13,Champions
+SC-20050,Sample Company A,41,30,16813.21902,3,5,5,13,Champions
+HD-14785,Harold Dahlen,43,29,16749.140199999998,3,5,5,13,Champions
+TB-21520,Tracy Blumstein,31,34,16716.76172,3,5,5,13,Champions
+CK-12595,Clytie Kelty,44,33,16480.86618,3,5,5,13,Champions
+AH-10690,Anna Häberlin,31,31,16276.16112,3,5,5,13,Champions
+GW-14605,Giulietta Weimer,19,25,16239.4915,4,4,5,13,Champions
+MS-17980,Michael Stewart,27,27,16210.5722,4,4,5,13,Champions
+DC-13285,Debra Catini,19,23,16164.6499,4,4,5,13,Champions
+AC-10450,Amy Cox,6,19,16126.3904,5,3,5,13,Champions
+SC-20380,Shahid Collister,31,37,16122.72424,3,5,5,13,Champions
+RM-19375,Raymond Messe,19,25,16077.68112,4,4,5,13,Champions
+MG-17680,Maureen Gastineau,37,28,16061.6441,3,5,5,13,Champions
+PS-18760,Pamela Stobb,30,28,15926.5494,3,5,5,13,Champions
+DL-13495,Dionis Lloyd,23,27,15872.184000000001,4,4,5,13,Champions
+GM-14440,Gary McGarr,20,26,15782.46188,4,4,5,13,Champions
+KT-16465,Kean Takahito,44,32,15725.0362,3,5,5,13,Champions
+MD-17860,Michael Dominguez,37,28,15575.64874,3,5,5,13,Champions
+MJ-17740,Max Jones,22,26,15347.655,4,4,5,13,Champions
+AA-10645,Anna Andreadi,29,36,15343.8907,3,5,5,13,Champions
+KH-16510,Keith Herrera,23,26,15340.396,4,4,5,13,Champions
+KW-16435,Katrina Willman,27,23,15319.9656,4,4,5,13,Champions
+LS-17200,Luke Schmidt,16,24,15258.74122,4,4,5,13,Champions
+KH-16330,Katharine Harms,17,26,15045.6445,4,4,5,13,Champions
+JM-15265,Janet Molinari,38,29,15036.5537,3,5,5,13,Champions
+ML-17410,Maris LaWare,34,30,14981.7043,3,5,5,13,Champions
+NS-18640,Noel Staavos,37,37,14866.087,3,5,5,13,Champions
+BC-11125,Becky Castell,34,28,14789.447,3,5,5,13,Champions
+MB-18085,Mick Brown,45,30,14744.230880000001,3,5,5,13,Champions
+MY-17380,Maribeth Yedwab,30,28,14724.1472,3,5,5,13,Champions
+SJ-20215,Sarah Jordon,29,32,14709.69868,3,5,5,13,Champions
+CM-12115,Chad McGuire,9,20,14657.9493,5,3,5,13,Champions
+SC-20770,Stewart Carmichael,41,32,14495.11408,3,5,5,13,Champions
+MZ-17335,Maria Zettner,22,26,14463.9343,4,4,5,13,Champions
+AH-10030,Aaron Hawkins,13,27,14439.49784,4,4,5,13,Champions
+FM-14290,Frank Merwin,37,30,14382.319220000001,3,5,5,13,Champions
+SL-20155,Sara Luxemburg,30,32,14380.691,3,5,5,13,Champions
+MC-17575,Matt Collins,28,33,14281.65306,3,5,5,13,Champions
+SV-20785,Stewart Visinsky,23,27,14262.9351,4,4,5,13,Champions
+NC-18340,Nat Carroll,6,22,13905.34712,5,4,4,13,Champions
+TS-21205,Thomas Seio,27,32,13888.62492,4,5,4,13,Champions
+JB-16045,Julia Barnett,1,24,13851.27568,5,4,4,13,Champions
+KB-16405,Katrina Bavinger,20,28,13786.0925,4,5,4,13,Champions
+DB-13210,Dean Braden,8,27,13743.5959,5,4,4,13,Champions
+RP-19270,Rachel Payne,8,26,13725.5769,5,4,4,13,Champions
+MO-17800,Meg O'Connel,7,25,13709.1228,5,4,4,13,Champions
+TH-21100,Thea Hendricks,7,27,13684.8726,5,4,4,13,Champions
+GH-14410,Gary Hansen,21,36,13659.59598,4,5,4,13,Champions
+FH-14275,Frank Hawley,5,23,13569.566,5,4,4,13,Champions
+FA-14230,Frank Atkinson,23,29,13535.0628,4,5,4,13,Champions
+KC-16675,Kimberly Carter,3,23,13531.28104,5,4,4,13,Champions
+JL-15175,James Lanier,7,27,13499.87246,5,4,4,13,Champions
+SC-20680,Steve Carroll,22,31,13477.05528,4,5,4,13,Champions
+DS-13180,David Smith,15,31,13447.412,4,5,4,13,Champions
+JM-15580,Jill Matthias,1,24,13295.857,5,4,4,13,Champions
+RH-19495,Rick Hansen,25,28,13295.7486,4,5,4,13,Champions
+PR-18880,Patrick Ryan,26,29,13243.62082,4,5,4,13,Champions
+MK-17905,Michael Kennedy,22,31,13202.4489,4,5,4,13,Champions
+LC-17140,Logan Currie,14,30,13128.24376,4,5,4,13,Champions
+AG-10300,Aleksandra Gannaway,3,24,13013.8762,5,4,4,13,Champions
+JC-15385,Jenna Caffey,9,25,12978.930919999999,5,4,4,13,Champions
+LC-17050,Liz Carlisle,5,23,12933.87382,5,4,4,13,Champions
+KE-16420,Katrina Edelman,27,31,12928.68672,4,5,4,13,Champions
+CW-11905,Carl Weiss,9,25,12917.6316,5,4,4,13,Champions
+TH-21235,Tiffany House,9,26,12896.252,5,4,4,13,Champions
+SH-20395,Shahid Hopkins,24,33,12849.17384,4,5,4,13,Champions
+TH-21550,Tracy Hopkins,6,26,12808.9063,5,4,4,13,Champions
+JK-15625,Jim Karlsson,2,27,12754.4081,5,4,4,13,Champions
+JG-15310,Jason Gross,3,24,12733.7039,5,4,4,13,Champions
+HM-14980,Henry MacAllister,26,29,12718.7916,4,5,4,13,Champions
+JK-15640,Jim Kriz,1,26,12637.4495,5,4,4,13,Champions
+AS-10045,Aaron Smayling,24,28,12596.2944,4,5,4,13,Champions
+CS-12250,Chris Selesnick,27,30,12496.1053,4,5,4,13,Champions
+BP-11290,Beth Paige,13,29,12448.89978,4,5,4,13,Champions
+TP-21565,Tracy Poddar,15,30,12429.8013,4,5,4,13,Champions
+DB-12910,Daniel Byrd,3,27,12338.2837,5,4,4,13,Champions
+TG-21310,Toby Gnade,15,32,12305.231600000001,4,5,4,13,Champions
+Co-12640,Corey-Lock,5,25,12279.23076,5,4,4,13,Champions
+SS-20590,Sonia Sunley,6,26,12181.4264,5,4,4,13,Champions
+RF-19735,Roland Fjeld,2,23,12139.0877,5,4,4,13,Champions
+LH-16900,Lena Hernandez,22,29,12098.37728,4,5,4,13,Champions
+ND-18460,Neil Ducich,6,22,12061.44172,5,4,4,13,Champions
+MH-18115,Mick Hernandez,6,26,12017.105,5,4,4,13,Champions
+CD-11980,Carol Darley,2,23,11848.16246,5,4,4,13,Champions
+LC-16960,Lindsay Castell,3,22,11812.0975,5,4,4,13,Champions
+NP-18325,Naresj Patel,2,25,11778.491,5,4,4,13,Champions
+RA-19945,Ryan Akin,2,23,11696.0283,5,4,4,13,Champions
+DB-13270,Deborah Brumfield,10,25,11690.3695,5,4,4,13,Champions
+CB-12025,Cassandra Brandow,10,25,11685.3186,5,4,4,13,Champions
+MH-17785,Maya Herman,1,26,11676.13204,5,4,4,13,Champions
+AB-10165,Alan Barnes,14,29,11649.265,4,5,4,13,Champions
+RB-19435,Richard Bierner,20,28,11618.07552,4,5,4,13,Champions
+SM-20950,Suzanne McNair,26,29,11552.77814,4,5,4,13,Champions
+CM-12190,Charlotte Melton,1,25,11375.05222,5,4,4,13,Champions
+PN-18775,Parhena Norris,16,33,11370.46522,4,5,4,13,Champions
+NP-18685,Nora Pelletier,15,30,11363.4332,4,5,4,13,Champions
+BD-11635,Brian Derr,10,25,11230.6983,5,4,4,13,Champions
+NC-18535,Nick Crebassa,7,22,11054.378,5,4,4,13,Champions
+NR-18550,Nick Radford,3,26,10993.42058,5,4,4,13,Champions
+RD-19720,Roger Demir,22,30,10902.5255,4,5,4,13,Champions
+SH-19975,Sally Hughsby,26,29,10893.50994,4,5,4,13,Champions
+GP-14740,Guy Phonely,2,25,10793.729,5,4,4,13,Champions
+KM-16660,Khloe Miller,16,29,10785.2626,4,5,4,13,Champions
+NF-18475,Neil Französisch,7,22,10630.9149,5,4,4,13,Champions
+AC-10420,Alyssa Crouse,7,24,10607.6947,5,4,4,13,Champions
+JC-15775,John Castell,2,25,10582.78504,5,4,4,13,Champions
+LS-17230,Lycoris Saunders,5,24,10577.17148,5,4,4,13,Champions
+KB-16600,Ken Brennan,2,25,10295.9567,5,4,4,13,Champions
+DP-13390,Dennis Pardue,1,27,10282.7912,5,4,4,13,Champions
+BN-11515,Bradley Nguyen,10,23,10272.22552,5,4,4,13,Champions
+CS-12400,Christopher Schild,2,23,10221.36436,5,4,4,13,Champions
+JK-15370,Jay Kimmel,2,27,10189.51404,5,4,4,13,Champions
+TR-21325,Toby Ritter,2,22,10033.18706,5,4,4,13,Champions
+CC-12670,Craig Carreira,17,28,9969.0279,4,5,4,13,Champions
+FP-14320,Frank Preis,24,29,9939.0502,4,5,4,13,Champions
+HE-14800,Harold Engle,7,27,9902.49522,5,4,4,13,Champions
+KB-16240,Karen Bern,5,27,9900.698,5,4,4,13,Champions
+SC-20845,Sung Chung,9,24,9898.62502,5,4,4,13,Champions
+DK-13225,Dean Katz,2,29,9246.4686,5,5,3,13,Champions
+CS-12355,Christine Sundaresam,7,31,9240.896999999999,5,5,3,13,Champions
+JF-15490,Jeremy Farry,5,30,9234.53286,5,5,3,13,Champions
+TC-21535,Tracy Collins,1,30,8888.0601,5,5,3,13,Champions
+BP-11095,Bart Pistole,3,32,8327.8696,5,5,3,13,Champions
+PB-19150,Philip Brown,6,33,7907.2555600000005,5,5,3,13,Champions
+SM-20320,Sean Miller,22,21,31125.29496,4,3,5,12,Champions
+BW-11110,Bart Watters,55,35,30613.6165,2,5,5,12,Champions
+PF-19120,Peter Fuller,85,28,27993.04966,2,5,5,12,Champions
+SC-20095,Sanjit Chand,76,28,25602.61,2,5,5,12,Champions
+TS-21370,Todd Sumrall,37,27,23201.678,3,4,5,12,Champions
+SV-20365,Seth Vernon,88,31,22376.44748,2,5,5,12,Champions
+PP-18955,Paul Prost,55,30,21884.1846,2,5,5,12,Champions
+CM-12385,Christopher Martinez,38,25,21882.96992,3,4,5,12,Champions
+SB-20185,Sarah Brown,75,31,21034.46172,2,5,5,12,Champions
+JM-15865,John Murray,69,29,20841.946500000002,2,5,5,12,Champions
+BV-11245,Benjamin Venier,45,22,20681.678,3,4,5,12,Champions
+AF-10885,Art Foster,54,35,19711.16728,2,5,5,12,Champions
+RW-19540,Rick Wilson,43,25,19423.6885,3,4,5,12,Champions
+CJ-12010,Caroline Jumper,34,26,19356.0046,3,4,5,12,Champions
+KC-16540,Kelly Collister,42,25,18897.130259999998,3,4,5,12,Champions
+SB-20290,Sean Braxton,42,22,18538.5328,3,4,5,12,Champions
+DK-12895,Dana Kaydos,46,22,18340.62916,3,4,5,12,Champions
+BS-11380,Bill Stewart,29,23,18305.9783,3,4,5,12,Champions
+JH-16180,Justin Hirsh,51,31,18267.0064,2,5,5,12,Champions
+AG-10900,Arthur Gainer,58,29,18174.17176,2,5,5,12,Champions
+CB-12535,Claudia Bergmann,43,27,18108.67284,3,4,5,12,Champions
+AD-10180,Alan Dominguez,30,27,17858.5048,3,4,5,12,Champions
+IM-15070,Irene Maddox,41,27,17854.10112,3,4,5,12,Champions
+SC-20305,Sean Christensen,30,26,17696.722,3,4,5,12,Champions
+BS-11665,Brian Stugart,30,24,17468.881,3,4,5,12,Champions
+EH-14125,Eugene Hildebrand,103,31,17408.31362,2,5,5,12,Champions
+EM-14200,Evan Minnotte,42,23,17087.77766,3,4,5,12,Champions
+JK-15325,Jason Klamczynski,78,28,17000.84332,2,5,5,12,Champions
+VP-21760,Victoria Pisteka,76,28,16935.5635,2,5,5,12,Champions
+CD-12280,Christina DeMoss,42,24,16779.54838,3,4,5,12,Champions
+CS-12175,Charles Sheldon,61,29,16706.0963,2,5,5,12,Champions
+TB-21175,Thomas Boland,40,27,16573.5984,3,4,5,12,Champions
+EG-13900,Emily Grady,23,21,16562.35068,4,3,5,12,Champions
+BE-11410,Bobby Elias,85,30,16552.06996,2,5,5,12,Champions
+KN-16450,Kean Nguyen,38,26,16294.6981,3,4,5,12,Champions
+ES-14080,Erin Smith,29,24,16236.0058,3,4,5,12,Champions
+LR-17035,Lisa Ryan,46,26,16118.9722,3,4,5,12,Champions
+DB-13405,Denny Blanton,29,26,16083.95666,3,4,5,12,Champions
+PF-19165,Philip Fox,92,36,16018.8427,2,5,5,12,Champions
+AP-10915,Arthur Prichep,77,32,15877.8603,2,5,5,12,Champions
+BB-11545,Brenda Bowman,29,26,15797.57188,3,4,5,12,Champions
+SS-20410,Shahid Shariari,34,27,15759.48198,3,4,5,12,Champions
+SA-20830,Sue Ann Reed,64,30,15622.37866,2,5,5,12,Champions
+JM-15250,Janet Martin,36,24,15594.46182,3,4,5,12,Champions
+SO-20335,Sean O'Donnell,30,27,15534.94692,3,4,5,12,Champions
+RA-19885,Ruben Ausman,44,23,15435.49908,3,4,5,12,Champions
+AG-10495,Andrew Gjertsen,79,29,15380.31006,2,5,5,12,Champions
+DO-13435,Denny Ordway,65,32,15280.8855,2,5,5,12,Champions
+AJ-10780,Anthony Jacobs,49,25,15186.0672,3,4,5,12,Champions
+BM-11650,Brian Moss,34,24,14920.99608,3,4,5,12,Champions
+SV-20815,Stuart Van,35,24,14575.50118,3,4,5,12,Champions
+AO-10810,Anthony O'Donnell,37,27,14537.7966,3,4,5,12,Champions
+CM-11815,Candace McMahon,41,23,14362.8004,3,4,5,12,Champions
+JS-15685,Jim Sink,41,26,14338.5195,3,4,5,12,Champions
+PL-18925,Paul Lucas,16,20,14256.7186,4,3,5,12,Champions
+BT-11680,Brian Thompson,19,22,14087.7631,4,4,4,12,Champions
+AA-10315,Alex Avila,9,19,13747.413,5,3,4,12,Champions
+DG-13300,Deirdre Greer,31,28,13731.428,3,5,4,12,Champions
+VM-21685,Valerie Mitchum,33,32,13708.12232,3,5,4,12,Champions
+TB-21055,Ted Butterfield,36,29,13671.71072,3,5,4,12,Champions
+AT-10435,Alyssa Tate,13,24,13654.3055,4,4,4,12,Champions
+SW-20245,Scot Wooten,13,26,13576.68382,4,4,4,12,Champions
+RD-19900,Ruben Dartt,33,29,13485.748,3,5,4,12,Champions
+MZ-17515,Mary Zewe,24,25,13383.976840000001,4,4,4,12,Champions
+LD-16855,Lela Donovan,43,30,13361.93258,3,5,4,12,Champions
+MS-17530,MaryBeth Skach,16,25,13335.04236,4,4,4,12,Champions
+BK-11260,Berenike Kampe,27,27,13294.68736,4,4,4,12,Champions
+TB-21625,Trudy Brown,31,31,13266.1971,3,5,4,12,Champions
+AW-10840,Anthony Witt,17,25,13200.25552,4,4,4,12,Champions
+DN-13690,Duane Noonan,20,24,13098.338,4,4,4,12,Champions
+BD-11500,Bradley Drucker,20,27,13089.8495,4,4,4,12,Champions
+DA-13450,Dianna Arnett,14,25,13035.368260000001,4,4,4,12,Champions
+BF-11215,Benjamin Farhat,27,27,12968.9385,4,4,4,12,Champions
+SB-20170,Sarah Bern,3,15,12950.934,5,3,4,12,Champions
+GG-14650,Greg Guthrie,34,28,12902.96276,3,5,4,12,Champions
+PM-18940,Paul MacIntyre,22,23,12893.5944,4,4,4,12,Champions
+MN-17935,Michael Nguyen,9,21,12870.93412,5,3,4,12,Champions
+LF-17185,Luke Foster,23,22,12864.7205,4,4,4,12,Champions
+SR-20425,Sharelle Roach,9,19,12721.24894,5,3,4,12,Champions
+CB-12415,Christy Brittain,27,23,12705.54736,4,4,4,12,Champions
+DJ-13630,Doug Jacobs,13,27,12560.130000000001,4,4,4,12,Champions
+CJ-11875,Carl Jackson,14,23,12538.83296,4,4,4,12,Champions
+JH-15910,Jonathan Howell,42,32,12532.7177,3,5,4,12,Champions
+GA-14515,George Ashbrook,23,24,12488.67232,4,4,4,12,Champions
+EB-13705,Ed Braxton,49,30,12382.284099999999,3,5,4,12,Champions
+BO-11425,Bobby Odegard,6,21,12356.58552,5,3,4,12,Champions
+NM-18520,Neoma Murray,20,27,12328.606,4,4,4,12,Champions
+JB-15925,Joni Blumstein,10,19,12325.28696,5,3,4,12,Champions
+DO-13645,Doug O'Connell,27,25,12083.48092,4,4,4,12,Champions
+PB-18805,Patrick Bzostek,9,19,12075.39774,5,3,4,12,Champions
+KL-16555,Kelly Lampkin,16,26,12064.3877,4,4,4,12,Champions
+VF-21715,Vicky Freymann,14,24,12000.133,4,4,4,12,Champions
+CM-12445,Chuck Magee,16,25,11971.70808,4,4,4,12,Champions
+Dl-13600,Dorris liebe,6,20,11912.7634,5,3,4,12,Champions
+BW-11200,Ben Wallace,41,29,11862.36908,3,5,4,12,Champions
+MS-17830,Melanie Seite,24,26,11783.3973,4,4,4,12,Champions
+MC-17275,Marc Crier,45,34,11680.0495,3,5,4,12,Champions
+VP-21730,Victor Preis,31,29,11629.269,3,5,4,12,Champions
+RH-19510,Rick Huthwaite,21,25,11599.392960000001,4,4,4,12,Champions
+NK-18490,Neil Knudson,27,24,11483.193,4,4,4,12,Champions
+MC-18100,Mick Crebagga,42,33,11353.7466,3,5,4,12,Champions
+LL-16840,Lauren Leatherbury,27,26,11287.78406,4,4,4,12,Champions
+SG-20890,Susan Gilcrest,17,22,11260.30386,4,4,4,12,Champions
+RW-19690,Robert Waldorf,16,25,11200.142,4,4,4,12,Champions
+MM-18055,Michelle Moray,16,25,11163.587,4,4,4,12,Champions
+RM-19675,Robert Marley,5,19,11151.9605,5,3,4,12,Champions
+AJ-10945,Ashley Jarboe,29,29,11087.024,3,5,4,12,Champions
+RP-19855,Roy Phan,22,27,11043.0844,4,4,4,12,Champions
+CS-12130,Chad Sievert,12,22,10981.231,4,4,4,12,Champions
+RB-19570,Rob Beeghly,21,25,10961.631,4,4,4,12,Champions
+SK-19990,Sally Knutson,9,19,10932.97152,5,3,4,12,Champions
+ND-18370,Natalie DeCherney,13,23,10913.15082,4,4,4,12,Champions
+EM-14095,Eudokia Martin,9,17,10889.6997,5,3,4,12,Champions
+BS-11800,Bryan Spruell,10,21,10887.2118,5,3,4,12,Champions
+SG-20080,Sandra Glassco,4,17,10774.5034,5,3,4,12,Champions
+GB-14575,Giulietta Baptist,14,24,10748.99238,4,4,4,12,Champions
+BG-11695,Brooke Gillingham,10,19,10723.32038,5,3,4,12,Champions
+PC-18745,Pamela Coakley,3,21,10693.49644,5,3,4,12,Champions
+CA-12055,Cathy Armstrong,14,22,10691.028,4,4,4,12,Champions
+FH-14350,Fred Harton,2,20,10654.52882,5,3,4,12,Champions
+NL-18310,Nancy Lomonaco,26,25,10587.3308,4,4,4,12,Champions
+MV-17485,Mark Van Huff,17,27,10563.3673,4,4,4,12,Champions
+SJ-20125,Sanjit Jacobs,33,30,10562.092,3,5,4,12,Champions
+NF-18595,Nicole Fjeld,12,22,10535.301519999999,4,4,4,12,Champions
+LW-17215,Luke Weiss,22,24,10529.49144,4,4,4,12,Champions
+LE-16810,Laurel Elliston,15,24,10429.2537,4,4,4,12,Champions
+IG-15085,Ivan Gibson,14,25,10383.13098,4,4,4,12,Champions
+SP-20650,Stephanie Phelps,21,24,10377.86844,4,4,4,12,Champions
+JD-15790,John Dryer,16,24,10267.74976,4,4,4,12,Champions
+DF-13135,David Flashing,10,18,10240.3839,5,3,4,12,Champions
+BF-11020,Barry Französisch,16,24,10201.2813,4,4,4,12,Champions
+JP-16135,Julie Prescott,44,34,10163.5086,3,5,4,12,Champions
+DE-13255,Deanra Eno,20,22,10085.789999999999,4,4,4,12,Champions
+DB-13615,Doug Bickford,28,28,10031.4568,3,5,4,12,Champions
+PM-19135,Peter McVee,13,22,9857.6599,4,4,4,12,Champions
+HF-14995,Herbert Flentye,15,28,9712.8699,4,5,3,12,Champions
+DW-13195,David Wiener,7,26,9689.3171,5,4,3,12,Champions
+BF-11275,Beth Fritzler,7,23,9578.59864,5,4,3,12,Champions
+TN-21040,Tanja Norvell,23,29,9410.26404,4,5,3,12,Champions
+SC-20260,Scott Cohen,1,26,9366.1924,5,4,3,12,Champions
+KW-16570,Kelly Williams,23,34,9256.0553,4,5,3,12,Champions
+BB-10990,Barry Blumstein,15,30,9064.5327,4,5,3,12,Champions
+AS-10240,Alan Shonely,13,31,9006.66636,4,5,3,12,Champions
+GA-14725,Guy Armstrong,3,24,8817.5455,5,4,3,12,Champions
+PT-19090,Pete Takahito,7,25,8370.783,5,4,3,12,Champions
+MH-17440,Mark Haberlin,9,25,7945.0458,5,4,3,12,Champions
+SC-20440,Shaun Chance,10,25,7677.43526,5,4,3,12,Champions
+SU-20665,Stephanie Ulpright,5,23,7442.46,5,4,3,12,Champions
+CC-12220,Chris Cortes,21,32,7308.7328,4,5,3,12,Champions
+KH-16630,Ken Heidel,9,27,7220.70456,5,4,3,12,Champions
+PW-19240,Pierre Wener,2,24,7186.1398,5,4,3,12,Champions
+RD-19810,Ross DeVincentis,15,30,7091.09996,4,5,3,12,Champions
+TD-20995,Tamara Dahlen,1,25,6924.1875,5,4,3,12,Champions
+TS-21160,Theresa Swint,9,22,6805.942,5,4,3,12,Champions
+SW-20455,Shaun Weien,8,22,6038.0162,5,4,3,12,Champions
+AA-10375,Allen Armold,7,23,5884.195,5,4,3,12,Champions
+HL-15040,Hunter Lopez,31,20,29664.23058,3,3,5,11,Champions
+JF-15295,Jason Fortune-,57,24,20382.2503,2,4,5,11,Champions
+NZ-18565,Nick Zandusky,86,26,19941.69812,2,4,5,11,Champions
+MR-17545,Mathew Reese,98,23,19246.7123,2,4,5,11,Champions
+CA-12775,Cynthia Arntzen,94,26,18350.464,2,4,5,11,Champions
+FW-14395,Fred Wasserman,64,26,16972.7481,2,4,5,11,Champions
+KB-16585,Ken Black,94,27,16385.749499999998,2,4,5,11,Champions
+DW-13480,Dianna Wilson,66,23,16336.8556,2,4,5,11,Champions
+HA-14905,Helen Abelman,70,24,15826.81444,2,4,5,11,Champions
+AP-10720,Anne Pryor,42,20,15362.0613,3,3,5,11,Champions
+KF-16285,Karen Ferguson,38,21,15164.8685,3,3,5,11,Champions
+RL-19615,Rob Lucas,121,23,14866.82448,2,4,5,11,Champions
+VD-21670,Valerie Dominguez,37,21,14754.8714,3,3,5,11,Champions
+ML-18265,Muhammed Lee,101,26,14674.00116,2,4,5,11,Champions
+GM-14695,Greg Maxwell,48,19,14564.942000000001,3,3,5,11,Champions
+CR-12820,Cyra Reiten,61,24,14470.55056,2,4,5,11,Champions
+CM-12655,Corinna Mitchell,28,18,14188.72268,3,3,5,11,Champions
+AR-10345,Alex Russell,30,26,14165.796199999999,3,4,4,11,Champions
+LH-17155,Logan Haushalter,76,29,14063.4898,2,5,4,11,Champions
+RS-19420,Ricardo Sperren,77,28,14047.14948,2,5,4,11,Champions
+KM-16720,Kunst Miller,29,23,14041.02,3,4,4,11,Champions
+NP-18700,Nora Preis,29,27,14036.4335,3,4,4,11,Champions
+TW-21025,Tamara Willingham,42,27,13931.8966,3,4,4,11,Champions
+CY-12745,Craig Yedwab,61,31,13928.4683,2,5,4,11,Champions
+TM-21490,Tony Molinari,41,27,13908.8563,3,4,4,11,Champions
+HK-14890,Heather Kirkland,44,27,13886.4431,3,4,4,11,Champions
+DP-13000,Darren Powers,62,31,13882.7624,2,5,4,11,Champions
+BT-11530,Bradley Talbott,34,25,13808.318,3,4,4,11,Champions
+MH-17290,Marc Harrigan,38,25,13718.69666,3,4,4,11,Champions
+CT-11995,Carol Triggs,29,27,13715.79704,3,4,4,11,Champions
+BP-11155,Becky Pak,33,24,13696.143460000001,3,4,4,11,Champions
+EB-14110,Eugene Barchas,36,24,13665.4673,3,4,4,11,Champions
+RS-19765,Roland Schwarz,37,25,13582.12128,3,4,4,11,Champions
+SH-20635,Stefanie Holloman,31,25,13546.7458,3,4,4,11,Champions
+TH-21115,Thea Hudgings,44,25,13483.62368,3,4,4,11,Champions
+MF-17665,Maureen Fritzler,52,29,13366.53134,2,5,4,11,Champions
+JR-15670,Jim Radford,13,20,13338.0916,4,3,4,11,Champions
+TT-21220,Thomas Thornton,38,22,13224.56416,3,4,4,11,Champions
+JE-15610,Jim Epp,43,26,13192.6924,3,4,4,11,Champions
+DW-13540,Don Weiss,13,20,13166.414999999999,4,3,4,11,Champions
+AB-10150,Aimee Bixby,36,24,13057.294600000001,3,4,4,11,Champions
+LT-17110,Liz Thompson,35,26,12986.77316,3,4,4,11,Champions
+EH-14185,Evan Henry,68,29,12800.51382,2,5,4,11,Champions
+MG-17650,Matthew Grinstein,20,21,12717.26968,4,3,4,11,Champions
+SN-20710,Steve Nguyen,45,24,12703.94056,3,4,4,11,Champions
+JR-16210,Justin Ritter,19,21,12589.959,4,3,4,11,Champions
+BP-11230,Benjamin Patterson,40,23,12573.6136,3,4,4,11,Champions
+EJ-14155,Eva Jacobs,28,23,12324.8446,3,4,4,11,Champions
+EM-14065,Erin Mull,17,17,12108.30958,4,3,4,11,Champions
+RR-19315,Ralph Ritter,20,21,11765.04038,4,3,4,11,Champions
+MH-18025,Michelle Huthwaite,21,19,11753.7025,4,3,4,11,Champions
+LC-16930,Linda Cazamias,42,26,11660.69496,3,4,4,11,Champions
+GB-14530,George Bell,34,25,11657.753,3,4,4,11,Champions
+DB-13660,Duane Benoit,13,20,11397.064840000001,4,3,4,11,Champions
+EA-14035,Erin Ashbrook,94,31,11387.06772,2,5,4,11,Champions
+CM-12235,Chris McAfee,43,22,11377.591,3,4,4,11,Champions
+BS-11590,Brendan Sweed,36,23,11358.58602,3,4,4,11,Champions
+BT-11395,Bill Tyler,29,24,11347.529,3,4,4,11,Champions
+SC-20800,Stuart Calhoun,31,24,11321.2786,3,4,4,11,Champions
+XP-21865,Xylona Preis,44,27,11187.1526,3,4,4,11,Champions
+DL-12865,Dan Lawera,58,34,11185.7181,2,5,4,11,Champions
+HR-14770,Hallie Redmond,14,18,11126.929,4,3,4,11,Champions
+JC-16105,Julie Creighton,58,28,11079.10488,2,5,4,11,Champions
+MH-17620,Matt Hagelstein,24,20,11038.31378,4,3,4,11,Champions
+TP-21415,Tom Prescott,49,22,10926.72382,3,4,4,11,Champions
+JP-15460,Jennifer Patt,37,26,10916.36982,3,4,4,11,Champions
+FC-14245,Frank Carlisle,43,23,10867.8088,3,4,4,11,Champions
+LS-17245,Lynn Smith,35,24,10758.988000000001,3,4,4,11,Champions
+SG-20470,Sheri Gordon,91,28,10730.2773,2,5,4,11,Champions
+RE-19450,Richard Eichhorn,24,18,10660.48524,4,3,4,11,Champions
+AG-10270,Alejandro Grove,41,25,10637.40422,3,4,4,11,Champions
+ME-18010,Michelle Ellison,43,27,10547.63192,3,4,4,11,Champions
+GM-14455,Gary Mitchum,17,17,10523.649,4,3,4,11,Champions
+JS-15880,John Stevenson,12,20,10443.1001,4,3,4,11,Champions
+BM-11575,Brendan Murry,35,25,10351.33308,3,4,4,11,Champions
+BT-11305,Beth Thompson,29,24,10321.82,3,4,4,11,Champions
+MO-17500,Mary O'Rourke,37,24,10314.4082,3,4,4,11,Champions
+AW-10930,Arthur Wiediger,36,22,10230.95856,3,4,4,11,Champions
+BD-11770,Bryan Davis,36,26,10168.32526,3,4,4,11,Champions
+BF-11080,Bart Folk,26,21,10134.5617,4,3,4,11,Champions
+SG-20605,Speros Goranitis,76,32,10128.53856,2,5,4,11,Champions
+MK-18160,Mike Kennedy,23,20,10043.3188,4,3,4,11,Champions
+MA-17995,Michelle Arnett,43,22,10006.45034,3,4,4,11,Champions
+LW-16825,Laurel Workman,23,20,9990.855239999999,4,3,4,11,Champions
+VB-21745,Victoria Brennan,13,21,9961.05,4,3,4,11,Champions
+AG-10765,Anthony Garverick,29,27,9824.7795,3,4,4,11,Champions
+CV-12805,Cynthia Voltz,5,20,9764.1306,5,3,3,11,Champions
+HA-14920,Helen Andreada,21,25,9740.3981,4,4,3,11,Champions
+SC-20575,Sonia Cooley,28,33,9685.4243,3,5,3,11,Champions
+NB-18655,Nona Balk,20,22,9647.2046,4,4,3,11,Champions
+JR-15700,Jocasta Rupert,8,18,9568.31976,5,3,3,11,Champions
+TS-21430,Tom Stivers,20,22,9532.9166,4,4,3,11,Champions
+ZD-21925,Zuschuss Donatelli,2,20,9479.3444,5,3,3,11,Champions
+AR-10570,Anemone Ratner,3,18,9445.64932,5,3,3,11,Champions
+BD-11560,Brendan Dodson,8,19,9356.77974,5,3,3,11,Champions
+JS-15595,Jill Stevenson,6,18,9334.6385,5,3,3,11,Champions
+DC-12850,Dan Campbell,38,29,9307.3655,3,5,3,11,Champions
+PJ-19015,Pauline Johnson,20,22,9230.87916,4,4,3,11,Champions
+AH-10585,Angele Hood,22,22,9125.8911,4,4,3,11,Champions
+LW-16990,Lindsay Williams,24,23,9111.8495,4,4,3,11,Champions
+RH-19555,Ritsa Hightower,8,21,8944.311,5,3,3,11,Champions
+BT-11485,Brad Thomas,31,29,8878.05054,3,5,3,11,Champions
+ML-18040,Michelle Lonsdale,8,19,8677.599,5,3,3,11,Champions
+LS-16975,Lindsay Shagiari,21,22,8646.9157,4,4,3,11,Champions
+AI-10855,Arianne Irving,14,22,8358.6023,4,4,3,11,Champions
+AR-10540,Andy Reiter,7,15,7983.9505,5,3,3,11,Champions
+LH-16750,Larry Hughes,13,22,7945.0902,4,4,3,11,Champions
+RC-19960,Ryan Crowe,23,22,7897.8691,4,4,3,11,Champions
+ME-17725,Max Engle,29,28,7839.8866,3,5,3,11,Champions
+KM-16225,Kalyca Meade,1,18,7754.5516,5,3,3,11,Champions
+SV-10815,Stuart Van,9,9,7728.912,5,3,3,11,Champions
+SS-20515,Shirley Schmidt,1,19,7480.62162,5,3,3,11,Champions
+JF-15355,Jay Fein,14,22,7343.566,4,4,3,11,Champions
+TB-11250,Tim Brockman,2,15,7270.836,5,3,3,11,Champions
+MM-18280,Muhammed MacIntyre,13,25,7134.304,4,4,3,11,Champions
+CC-2370,Christopher Conant,7,9,6957.225,5,3,3,11,Champions
+DB-13360,Dennis Bolton,48,28,6919.81436,3,5,3,11,Champions
+EB-14170,Evan Bailliet,20,23,6736.4391,4,4,3,11,Champions
+AC-10660,Anna Chung,3,21,6255.61908,5,3,3,11,Champions
+IG-5085,Ivan Gibson,2,12,5766.243,5,3,3,11,Champions
+DB-13120,David Bremer,6,16,5602.59462,5,3,3,11,Champions
+BP-11050,Barry Pond,6,21,5403.78676,5,3,3,11,Champions
+TT-21265,Tim Taslimi,2,20,4730.638,5,3,3,11,Champions
+RH-19600,Rob Haberlin,7,21,4629.69556,5,3,3,11,Champions
+MO-17950,Michael Oakman,7,14,4527.392,5,3,3,11,Champions
+JS-15940,Joni Sundaresam,6,15,3874.766,5,3,3,11,Champions
+NF-8385,Natalie Fritzler,2,11,3736.899,5,3,3,11,Champions
+LA-6780,Laura Armstrong,2,12,3589.44,5,3,3,11,Champions
+GT-14635,Grant Thornton,57,20,19080.34784,2,3,5,10,Champions
+PO-19180,Philisse Overcash,161,24,16753.1715,1,4,5,10,Champions
+NW-18400,Natalie Webber,173,26,15326.833059999999,1,4,5,10,Champions
+GH-14485,Gene Hale,52,21,14692.6742,2,3,5,10,Champions
+CP-12085,Cathy Prescott,70,23,14183.8819,2,4,4,10,Champions
+TM-21010,Tamara Manning,65,27,14158.9626,2,4,4,10,Champions
+DH-13075,Dave Hallsten,76,25,14128.6781,2,4,4,10,Champions
+EM-13825,Elizabeth Moffitt,56,26,14128.078160000001,2,4,4,10,Champions
+MT-17815,Meg Tillman,50,27,13845.5188,2,4,4,10,Champions
+HH-15010,Hilary Holden,55,24,13731.73782,2,4,4,10,Champions
+PJ-18835,Patrick Jones,40,19,13639.502,3,3,4,10,Champions
+EM-13810,Eleni McCrary,79,23,13549.72804,2,4,4,10,Champions
+CG-12520,Claire Gute,29,18,13545.47002,3,3,4,10,Champions
+RK-19300,Ralph Kennedy,86,26,13480.92458,2,4,4,10,Champions
+CD-12790,Cynthia Delaney,77,25,13468.1145,2,4,4,10,Champions
+RF-19345,Randy Ferguson,65,27,13391.2718,2,4,4,10,Champions
+AB-10600,Ann Blume,51,22,13318.6631,2,4,4,10,Champions
+JK-16120,Julie Kriz,98,26,13134.71664,2,4,4,10,Champions
+AG-10675,Anna Gayman,48,21,13023.836000000001,3,3,4,10,Champions
+MC-17605,Matt Connell,50,26,13019.2019,2,4,4,10,Champions
+SP-20860,Sung Pak,55,26,12994.59246,2,4,4,10,Champions
+DV-13465,Dianna Vittorini,30,20,12910.87688,3,3,4,10,Champions
+SN-20560,Skye Norling,72,25,12738.710000000001,2,4,4,10,Champions
+AH-10195,Alan Haines,50,25,12628.19178,2,4,4,10,Champions
+KD-16615,Ken Dana,76,24,12348.44362,2,4,4,10,Champions
+CC-12145,Charles Crestani,83,24,12190.6666,2,4,4,10,Champions
+RE-19405,Ricardo Emerson,29,21,12073.09218,3,3,4,10,Champions
+IL-15100,Ivan Liston,117,25,11802.69376,2,4,4,10,Champions
+DS-13030,Darrin Sayre,94,26,11644.2965,2,4,4,10,Champions
+GZ-14545,George Zrebassa,77,24,11593.7308,2,4,4,10,Champions
+CS-12505,Cindy Stewart,28,16,11535.2464,3,3,4,10,Champions
+CC-12100,Chad Cunningham,52,25,11500.12324,2,4,4,10,Champions
+LD-17005,Lisa DeCherney,50,27,11461.65464,2,4,4,10,Champions
+KD-16345,Katherine Ducich,42,15,11157.0404,3,3,4,10,Champions
+JK-15205,Jamie Kunitz,62,24,10917.0012,2,4,4,10,Champions
+MA-17560,Matt Abelman,65,24,10813.79188,2,4,4,10,Champions
+EL-13735,Ed Ludwig,54,23,10515.862000000001,2,4,4,10,Champions
+TZ-21580,Tracy Zic,36,19,10455.5278,3,3,4,10,Champions
+JO-15145,Jack O'Briant,58,23,10440.976,2,4,4,10,Champions
+LS-16945,Linda Southworth,28,20,10420.11776,3,3,4,10,Champions
+TB-21280,Toby Braunhardt,58,26,10127.01266,2,4,4,10,Champions
+MC-17590,Matt Collister,52,25,10118.84168,2,4,4,10,Champions
+MH-17455,Mark Hamilton,55,27,9974.27472,2,4,4,10,Champions
+CK-12325,Christine Kargatis,62,27,9927.89832,2,4,4,10,Champions
+AH-10120,Adrian Hane,61,22,9927.83588,2,4,4,10,Champions
+VG-21790,Vivek Gonzalez,111,27,9908.6065,2,4,4,10,Champions
+LC-16870,Lena Cacioppo,28,21,9859.89236,3,3,4,10,Champions
+HZ-14950,Henia Zydlo,36,22,9656.4048,3,4,3,10,Champions
+EB-13930,Eric Barreto,20,18,9533.9519,4,3,3,10,Champions
+PC-19000,Pauline Chand,22,18,9474.0653,4,3,3,10,Champions
+DB-13555,Dorothy Badders,37,22,9415.2204,3,4,3,10,Champions
+KC-16255,Karen Carlisle,45,27,9321.9643,3,4,3,10,Champions
+RD-19930,Russell D'Ascenzo,43,22,9293.58832,3,4,3,10,Champions
+RB-19705,Roger Barcio,17,16,9288.0836,4,3,3,10,Champions
+EH-13990,Erica Hackney,45,26,8807.0846,3,4,3,10,Champions
+DD-13570,Dorothy Dickinson,42,24,8741.4648,3,4,3,10,Champions
+CR-12580,Clay Rozendal,23,20,8700.3125,4,3,3,10,Champions
+JD-16015,Joy Daniels,49,24,8690.6293,3,4,3,10,Champions
+JL-15505,Jeremy Lonsdale,31,22,8631.695,3,4,3,10,Champions
+MS-17710,Maurice Satty,30,26,8500.63026,3,4,3,10,Champions
+JL-15850,John Lucas,45,22,8497.68,3,4,3,10,Champions
+AG-10525,Andy Gerbode,13,20,8468.963,4,3,3,10,Champions
+TB-21595,Troy Blackwell,29,26,8437.989,3,4,3,10,Champions
+JE-16165,Justin Ellison,21,20,8352.71836,4,3,3,10,Champions
+BF-10975,Barbara Fisher,36,22,8104.7792,3,4,3,10,Champions
+CC-12550,Clay Cheatham,28,25,7908.65034,3,4,3,10,Champions
+DH-13675,Duane Huffman,22,17,7817.3085,4,3,3,10,Champions
+LP-17080,Liz Pelletier,41,24,7631.9895,3,4,3,10,Champions
+HP-14815,Harold Pawlan,31,24,7321.4395,3,4,3,10,Champions
+LC-7050,Liz Carlisle,7,7,7193.652,5,2,3,10,Champions
+CA-12310,Christine Abelman,14,21,7166.23086,4,3,3,10,Champions
+JO-15280,Jas O'Carroll,15,21,7123.5651,4,3,3,10,Champions
+RS-19870,Roy Skaria,20,20,7090.9567799999995,4,3,3,10,Champions
+JM-15535,Jessica Myrick,15,20,6942.403,4,3,3,10,Champions
+SW-20350,Sean Wendt,13,21,6923.24944,4,3,3,10,Champions
+EB-13870,Emily Burns,16,19,6850.983700000001,4,3,3,10,Champions
+SP-20545,Sibella Parks,17,20,6801.1987,4,3,3,10,Champions
+PA-19060,Pete Armstrong,24,21,6723.23276,4,3,3,10,Champions
+RM-19750,Roland Murray,17,19,6475.01086,4,3,3,10,Champions
+BS-1800,Bryan Spruell,12,9,6364.854,4,3,3,10,Champions
+EN-13780,Edward Nazzal,15,20,6333.9164,4,3,3,10,Champions
+DJ-3510,Don Jones,7,7,5976.6900000000005,5,2,3,10,Champions
+JE-15475,Jeremy Ellison,36,22,5905.076,3,4,3,10,Champions
+RE-9450,Richard Eichhorn,16,12,5678.7029999999995,4,3,3,10,Champions
+GT-14755,Guy Thornton,35,23,5601.70652,3,4,3,10,Champions
+AY-10555,Andy Yotov,15,16,5446.61044,4,3,3,10,Champions
+IM-15055,Ionia McGrath,16,15,5154.83976,4,3,3,10,Champions
+EH-4125,Eugene Hildebrand,23,13,5012.22,4,3,3,10,Champions
+BP-1050,Barry Pond,12,9,4981.542,4,3,3,10,Champions
+SS-20875,Sung Shariari,15,21,4772.1508,4,3,3,10,Champions
+DH-3675,Duane Huffman,21,12,4661.844,4,3,3,10,Champions
+GH-4425,Gary Hwang,22,10,4585.83,4,3,3,10,Champions
+TS-11370,Todd Sumrall,19,10,4573.584,4,3,3,10,Champions
+MS-7830,Melanie Seite,5,8,4322.904,5,2,3,10,Champions
+MO-7800,Meg O'Connel,15,9,4294.2660000000005,4,3,3,10,Champions
+JO-5550,Jesus Ocampo,13,9,4203.78,4,3,3,10,Champions
+CC-2220,Chris Cortes,22,12,4174.182,4,3,3,10,Champions
+MV-8190,Mike Vittorini,8,8,3995.04,5,2,3,10,Champions
+TB-11520,Tracy Blumstein,19,11,3991.5209999999997,4,3,3,10,Champions
+TC-11145,Theresa Coyne,13,10,3799.926,4,3,3,10,Champions
+EL-3735,Ed Ludwig,27,11,3691.392,4,3,3,10,Champions
+MC-7575,Matt Collins,10,8,3619.188,5,2,3,10,Champions
+CG-12040,Catherine Glotzbach,22,19,3596.268,4,3,3,10,Champions
+GT-4755,Guy Thornton,1,8,3457.578,5,2,3,10,Champions
+DK-2835,Damala Kotsonis,22,11,3373.143,4,3,3,10,Champions
+KH-6330,Katharine Harms,20,13,3371.208,4,3,3,10,Champions
+JC-5385,Jenna Caffey,16,9,3183.0750000000003,4,3,3,10,Champions
+RO-9780,Rose O'Brian,5,9,3080.1059999999998,5,3,2,10,Champions
+ZD-11925,Zuschuss Donatelli,4,9,2951.226,5,3,2,10,Champions
+JG-5115,Jack Garza,6,9,2907.678,5,3,2,10,Champions
+LS-6945,Linda Southworth,7,12,2726.034,5,3,2,10,Champions
+ND-8460,Neil Ducich,9,10,2722.98,5,3,2,10,Champions
+AJ-780,Anthony Jacobs,2,12,2570.994,5,3,2,10,Champions
+EB-3930,Eric Barreto,8,9,2433.516,5,3,2,10,Champions
+SW-10455,Shaun Weien,8,9,2205.252,5,3,2,10,Champions
+MH-7785,Maya Herman,8,9,1914.834,5,3,2,10,Champions
+TT-11220,Thomas Thornton,6,9,1826.4,5,3,2,10,Champions
+AF-870,Art Ferguson,6,9,1700.082,5,3,2,10,Champions
+BP-1185,Ben Peterman,5,10,1430.616,5,3,2,10,Champions
+AA-10480,Andrew Allen,126,20,17695.58978,1,3,5,9,Champions
+ER-13855,Elpida Rittenbach,70,19,13396.0,2,3,4,9,Champions
+RD-19660,Robert Dilbeck,94,21,12947.9651,2,3,4,9,Champions
+SJ-20500,Shirley Jackson,176,26,12930.791,1,4,4,9,Champions
+NP-18670,Nora Paige,59,19,12839.01426,2,3,4,9,Champions
+JG-15115,Jack Garza,69,19,12801.82588,2,3,4,9,Champions
+CC-12685,Craig Carroll,55,20,12798.5442,2,3,4,9,Champions
+DL-12925,Daniel Lacy,58,21,11364.6808,2,3,4,9,Champions
+CH-12070,Cathy Hwang,90,21,11122.55656,2,3,4,9,Champions
+MT-18070,Michelle Tran,128,24,10920.3999,1,4,4,9,Champions
+PO-19195,Phillina Ober,87,21,10872.01088,2,3,4,9,Champions
+TB-21190,Thomas Brumley,50,17,10686.47152,2,3,4,9,Champions
+CS-11860,Cari Schnelling,78,21,10555.92482,2,3,4,9,Champions
+AS-10630,Ann Steele,36,19,9815.9395,3,3,3,9,Champions
+JJ-15445,Jennifer Jackson,34,19,9696.8474,3,3,3,9,Champions
+CM-11935,Carlos Meador,37,18,9689.0124,3,3,3,9,Champions
+DM-13525,Don Miller,36,19,9640.38168,3,3,3,9,Champions
+TS-21655,Trudy Schmidt,85,24,9525.457199999999,2,4,3,9,Champions
+RW-19630,Rob Williams,78,26,9425.9243,2,4,3,9,Champions
+FG-14260,Frank Gastineau,35,18,9396.5055,3,3,3,9,Champions
+NG-18355,Nat Gilpin,49,21,9262.72936,3,3,3,9,Champions
+NC-18415,Nathan Cano,40,19,9255.794,3,3,3,9,Champions
+CV-12295,Christina VanderZanden,40,20,9042.26818,3,3,3,9,Champions
+EJ-13720,Ed Jacobs,50,22,8969.44,2,4,3,9,Champions
+AR-10405,Allen Rosenblatt,55,22,8956.82078,2,4,3,9,Champions
+GR-14560,Georgia Rosenberg,50,24,8895.05754,2,4,3,9,Champions
+AJ-10795,Anthony Johnson,63,22,8887.077,2,4,3,9,Champions
+FC-14335,Fred Chung,108,23,8770.73964,2,4,3,9,Champions
+RH-9555,Ritsa Hightower,27,8,8753.469,4,2,3,9,Champions
+AJ-10960,Astrea Jones,49,17,8633.59348,3,3,3,9,Champions
+MC-18130,Mike Caudle,52,23,8532.703,2,4,3,9,Champions
+EB-13750,Edward Becker,33,20,8489.991,3,3,3,9,Champions
+CM-12715,Craig Molinari,42,19,8392.5789,3,3,3,9,Champions
+JF-5415,Jennifer Ferguson,38,11,8227.02,3,3,3,9,Champions
+LH-17020,Lisa Hazard,42,18,8189.785800000001,3,3,3,9,Champions
+RC-19825,Roy Collins,119,25,7916.6733,2,4,3,9,Champions
+BD-11620,Brian DeCherney,50,25,7849.0000199999995,2,4,3,9,Champions
+EH-13945,Eric Hoffmann,58,27,7832.68602,2,4,3,9,Champions
+JM-16195,Justin MacKendrick,58,25,7825.5646,2,4,3,9,Champions
+AS-10135,Adrian Shami,42,19,7307.2442,3,3,3,9,Champions
+SM-20905,Susan MacKendrick,38,17,6918.4824,3,3,3,9,Champions
+SF-20965,Sylvia Foulston,49,17,6777.6808,3,3,3,9,Champions
+GM-14500,Gene McClure,107,23,6704.18562,2,4,3,9,Champions
+CK-12760,Cyma Kinney,58,26,6574.8044,2,4,3,9,Champions
+RD-9930,Russell D'Ascenzo,29,11,6523.392,3,3,3,9,Champions
+LM-7065,Liz MacKendrick,8,4,6280.47,5,1,3,9,Champions
+KT-16480,Kean Thornton,28,20,6240.6521,3,3,3,9,Champions
+RW-9540,Rick Wilson,27,7,5698.434,4,2,3,9,Champions
+JH-6180,Justin Hirsh,28,9,5651.8949999999995,3,3,3,9,Champions
+EK-13795,Eileen Kiefer,45,17,5597.3462,3,3,3,9,Champions
+AB-600,Ann Blume,8,5,5408.55,5,1,3,9,Champions
+TS-21085,Thais Sissman,42,19,5395.2094,3,3,3,9,Champions
+LW-17125,Liz Willingham,42,16,5369.269,3,3,3,9,Champions
+JD-6150,Justin Deggeller,22,6,5329.7699999999995,4,2,3,9,Champions
+KS-16300,Karen Seio,36,21,5103.36318,3,3,3,9,Champions
+TG-11640,Trudy Glocke,31,9,4906.533,3,3,3,9,Champions
+MB-7305,Maria Bertelson,23,8,4874.589,4,2,3,9,Champions
+TA-11385,Tom Ashbrook,9,5,4819.95,5,1,3,9,Champions
+PT-9090,Pete Takahito,3,5,4686.03,5,1,3,9,Champions
+DV-3045,Darrin Van Huff,34,13,4640.319,3,3,3,9,Champions
+JP-6135,Julie Prescott,27,8,4432.650000000001,4,2,3,9,Champions
+IM-5055,Ionia McGrath,20,7,4324.95,4,2,3,9,Champions
+DC-2850,Dan Campbell,35,9,4131.144,3,3,3,9,Champions
+MY-8295,Muhammed Yedwab,44,10,4072.167,3,3,3,9,Champions
+NM-8445,Nathan Mautz,34,9,4053.7200000000003,3,3,3,9,Champions
+CK-2760,Cyma Kinney,38,12,4015.95,3,3,3,9,Champions
+NG-8430,Nathan Gelder,19,8,3749.829,4,2,3,9,Champions
+LL-6840,Lauren Leatherbury,36,9,3649.152,3,3,3,9,Champions
+DO-3435,Denny Ordway,37,10,3515.73,3,3,3,9,Champions
+PB-9150,Philip Brown,42,10,3478.443,3,3,3,9,Champions
+AJ-795,Anthony Johnson,37,10,3395.58,3,3,3,9,Champions
+RD-9660,Robert Dilbeck,28,9,3391.788,3,3,3,9,Champions
+JB-6045,Julia Barnett,29,10,3235.656,3,3,3,9,Champions
+RF-9345,Randy Ferguson,7,5,3208.026,5,1,3,9,Champions
+SC-10305,Sean Christensen,17,7,3207.18,4,2,3,9,Champions
+CK-2325,Christine Kargatis,1,8,3125.295,5,2,2,9,Champions
+KB-6315,Karl Braun,23,11,2957.715,4,3,2,9,Champions
+JS-5940,Joni Sundaresam,24,13,2927.3399999999997,4,3,2,9,Champions
+JO-5145,Jack O'Briant,6,6,2904.714,5,2,2,9,Champions
+JD-5895,Jonathan Doherty,3,6,2770.4339999999997,5,2,2,9,Champions
+BO-1425,Bobby Odegard,2,8,2671.257,5,2,2,9,Champions
+DM-2955,Dario Medina,13,9,2437.407,4,3,2,9,Champions
+EB-4110,Eugene Barchas,21,10,2417.757,4,3,2,9,Champions
+SS-10410,Shahid Shariari,27,10,2348.46,4,3,2,9,Champions
+DR-2880,Dan Reichenbach,5,8,2291.463,5,2,2,9,Champions
+LO-7170,Lori Olson,5,7,2281.185,5,2,2,9,Champions
+AA-315,Alex Avila,3,7,2243.256,5,2,2,9,Champions
+RM-9375,Raymond Messe,10,7,2239.446,5,2,2,9,Champions
+AZ-750,Annie Zypern,27,10,2231.277,4,3,2,9,Champions
+NH-8610,Nicole Hansen,6,6,2121.522,5,2,2,9,Champions
+DM-3015,Darrin Martin,3,6,2105.79,5,2,2,9,Champions
+DP-3000,Darren Powers,15,10,2093.61,4,3,2,9,Champions
+ME-7725,Max Engle,12,11,2083.875,4,3,2,9,Champions
+DB-3060,Dave Brooks,9,8,2070.258,5,2,2,9,Champions
+RA-9945,Ryan Akin,21,9,2044.587,4,3,2,9,Champions
+FM-4290,Frank Merwin,3,8,2002.71,5,2,2,9,Champions
+MA-7995,Michelle Arnett,17,11,1928.007,4,3,2,9,Champions
+BD-1320,Bill Donatelli,6,6,1885.05,5,2,2,9,Champions
+LW-6990,Lindsay Williams,15,11,1869.771,4,3,2,9,Champions
+ME-7320,Maria Etezadi,21,10,1720.1879999999999,4,3,2,9,Champions
+AC-420,Alyssa Crouse,14,9,1689.675,4,3,2,9,Champions
+MG-8205,Mitch Gastineau,2,7,1648.944,5,2,2,9,Champions
+DP-3165,David Philippe,8,6,1517.952,5,2,2,9,Champions
+CD-1980,Carol Darley,7,7,1380.228,5,2,2,9,Champions
+CR-2730,Craig Reiter,6,11,1359.576,5,3,1,9,Champions
+VD-11670,Valerie Dominguez,1,9,1230.051,5,3,1,9,Champions
+ML-8265,Muhammed Lee,9,9,1170.72,5,3,1,9,Champions
+KB-6600,Ken Brennan,10,11,1167.738,5,3,1,9,Champions
+GH-4665,Greg Hansen,2,9,1077.069,5,3,1,9,Champions
+JH-5430,Jennifer Halladay,8,9,883.476,5,3,1,9,Champions
+SA-10830,Sue Ann Reed,11,10,872.676,5,3,1,9,Champions
+VS-21820,Vivek Sundaresam,139,15,10275.775,1,3,4,8,Loyal Customers
+AZ-10750,Annie Zypern,71,18,9639.801,2,3,3,8,Loyal Customers
+HR-14830,Harold Ryan,52,21,9637.15436,2,3,3,8,Loyal Customers
+PH-18790,Patricia Hirasaki,58,19,9435.5663,2,3,3,8,Loyal Customers
+LM-17065,Liz MacKendrick,85,18,9249.383,2,3,3,8,Loyal Customers
+TB-21355,Todd Boyes,55,20,9205.113,2,3,3,8,Loyal Customers
+BD-11605,Brian Dahlen,98,19,9202.66214,2,3,3,8,Loyal Customers
+BW-1065,Barry Weirich,23,5,9027.48,4,1,3,8,Loyal Customers
+AH-10465,Amy Hunt,71,20,8547.83068,2,3,3,8,Loyal Customers
+AG-10390,Allen Goldenen,115,19,8453.0096,2,3,3,8,Loyal Customers
+BW-11065,Barry Weirich,51,18,8409.0559,2,3,3,8,Loyal Customers
+BT-11440,Bobby Trafton,52,21,8263.9755,2,3,3,8,Loyal Customers
+PO-9195,Phillina Ober,34,8,8227.356,3,2,3,8,Loyal Customers
+PB-19105,Peter Bühler,58,16,8087.781,2,3,3,8,Loyal Customers
+JD-16060,Julia Dunbar,66,19,7683.04096,2,3,3,8,Loyal Customers
+BO-11350,Bill Overfelt,112,20,7476.2546999999995,2,3,3,8,Loyal Customers
+SF-20065,Sandra Flanagan,59,21,7395.746,2,3,3,8,Loyal Customers
+PK-18910,Paul Knutson,99,16,7282.58156,2,3,3,8,Loyal Customers
+DW-3480,Dianna Wilson,56,12,7118.106000000001,2,3,3,8,Loyal Customers
+SM-20005,Sally Matthias,148,22,6801.587500000001,1,4,3,8,Loyal Customers
+EG-3900,Emily Grady,52,11,6549.951,2,3,3,8,Loyal Customers
+RB-19645,Robert Barroso,151,22,5973.5944,1,4,3,8,Loyal Customers
+KN-16705,Kristina Nunn,99,19,5884.778,2,3,3,8,Loyal Customers
+RD-9585,Rob Dowd,36,7,5168.4,3,2,3,8,Loyal Customers
+LC-6930,Linda Cazamias,72,9,5080.688999999999,2,3,3,8,Loyal Customers
+BD-1725,Bruce Degenhardt,101,13,5078.400000000001,2,3,3,8,Loyal Customers
+TT-11265,Tim Taslimi,95,9,5049.042,2,3,3,8,Loyal Customers
+AS-285,Alejandro Savely,100,13,4938.4619999999995,2,3,3,8,Loyal Customers
+RD-9900,Ruben Dartt,93,10,4837.2210000000005,2,3,3,8,Loyal Customers
+CM-1830,Cari MacIntyre,114,13,4777.407,2,3,3,8,Loyal Customers
+MH-7455,Mark Hamilton,93,10,4747.371,2,3,3,8,Loyal Customers
+AB-255,Alejandro Ballentine,44,8,4679.502,3,2,3,8,Loyal Customers
+BH-1710,Brosina Hoffman,94,10,4583.286,2,3,3,8,Loyal Customers
+JE-6165,Justin Ellison,37,8,4555.716,3,2,3,8,Loyal Customers
+EC-14050,Erin Creighton,54,19,4430.2361,2,3,3,8,Loyal Customers
+MG-7680,Maureen Gastineau,75,9,4298.478,2,3,3,8,Loyal Customers
+DV-3465,Dianna Vittorini,14,5,4037.82,4,1,3,8,Loyal Customers
+JH-5910,Jonathan Howell,41,8,4013.994,3,2,3,8,Loyal Customers
+JO-15550,Jesus Ocampo,72,19,4002.8940000000002,2,3,3,8,Loyal Customers
+DK-3375,Dennis Kane,118,10,3846.78,2,3,3,8,Loyal Customers
+GZ-4545,George Zrebassa,31,6,3698.388,3,2,3,8,Loyal Customers
+AH-75,Adam Hart,38,8,3608.34,3,2,3,8,Loyal Customers
+MM-8280,Muhammed MacIntyre,72,10,3586.695,2,3,3,8,Loyal Customers
+SS-10140,Saphhira Shifley,30,7,3491.6279999999997,3,2,3,8,Loyal Customers
+JF-5355,Jay Fein,97,9,3475.7639999999997,2,3,3,8,Loyal Customers
+SU-10665,Stephanie Ulpright,49,6,3331.134,3,2,3,8,Loyal Customers
+TC-10980,Tamara Chand,48,8,3239.064,3,2,3,8,Loyal Customers
+EM-4065,Erin Mull,53,9,3213.246,2,3,3,8,Loyal Customers
+MZ-7515,Mary Zewe,79,9,3193.161,2,3,3,8,Loyal Customers
+KF-6285,Karen Ferguson,33,9,3100.152,3,3,2,8,Loyal Customers
+AY-555,Andy Yotov,36,11,3096.42,3,3,2,8,Loyal Customers
+DG-3300,Deirdre Greer,15,6,2982.312,4,2,2,8,Loyal Customers
+SV-10785,Stewart Visinsky,22,7,2969.43,4,2,2,8,Loyal Customers
+LC-7140,Logan Currie,17,6,2954.43,4,2,2,8,Loyal Customers
+AG-525,Andy Gerbode,16,7,2870.676,4,2,2,8,Loyal Customers
+BN-1470,Brad Norvell,23,7,2823.852,4,2,2,8,Loyal Customers
+AG-270,Alejandro Grove,14,8,2779.806,4,2,2,8,Loyal Customers
+EB-3975,Erica Bern,36,9,2713.62,3,3,2,8,Loyal Customers
+NC-8340,Nat Carroll,36,9,2707.962,3,3,2,8,Loyal Customers
+MK-8160,Mike Kennedy,41,10,2697.066,3,3,2,8,Loyal Customers
+LW-7125,Liz Willingham,34,9,2677.341,3,3,2,8,Loyal Customers
+JJ-5445,Jennifer Jackson,20,6,2490.204,4,2,2,8,Loyal Customers
+JM-5250,Janet Martin,7,5,2424.201,5,1,2,8,Loyal Customers
+BM-1785,Bryan Mills,49,9,2244.342,3,3,2,8,Loyal Customers
+AS-630,Ann Steele,34,11,2000.01,3,3,2,8,Loyal Customers
+CS-2250,Chris Selesnick,3,4,1917.624,5,1,2,8,Loyal Customers
+NR-8550,Nick Radford,15,8,1898.481,4,2,2,8,Loyal Customers
+BE-1410,Bobby Elias,22,7,1859.859,4,2,2,8,Loyal Customers
+BM-1140,Becky Martin,14,6,1857.69,4,2,2,8,Loyal Customers
+GW-4605,Giulietta Weimer,15,8,1830.789,4,2,2,8,Loyal Customers
+PB-9105,Peter Bühler,1,4,1808.208,5,1,2,8,Loyal Customers
+AB-60,Adam Bellavance,36,9,1770.2279999999998,3,3,2,8,Loyal Customers
+BP-1095,Bart Pistole,12,6,1759.668,4,2,2,8,Loyal Customers
+JL-5235,Janet Lee,2,4,1751.712,5,1,2,8,Loyal Customers
+BF-975,Barbara Fisher,23,8,1730.232,4,2,2,8,Loyal Customers
+BM-1575,Brendan Murry,41,9,1703.982,3,3,2,8,Loyal Customers
+MB-8085,Mick Brown,12,8,1703.508,4,2,2,8,Loyal Customers
+JR-5700,Jocasta Rupert,14,6,1673.163,4,2,2,8,Loyal Customers
+MS-7980,Michael Stewart,7,5,1654.644,5,1,2,8,Loyal Customers
+CS-1845,Cari Sayre,25,8,1593.3120000000001,4,2,2,8,Loyal Customers
+JG-5160,James Galang,17,8,1588.116,4,2,2,8,Loyal Customers
+KL-6645,Ken Lonsdale,1,5,1576.296,5,1,2,8,Loyal Customers
+KH-6510,Keith Herrera,16,7,1544.34,4,2,2,8,Loyal Customers
+SN-10560,Skye Norling,14,6,1480.104,4,2,2,8,Loyal Customers
+HG-5025,Hunter Glantz,24,7,1476.612,4,2,2,8,Loyal Customers
+PF-9225,Phillip Flathmann,15,7,1474.272,4,2,2,8,Loyal Customers
+AB-165,Alan Barnes,17,6,1399.776,4,2,2,8,Loyal Customers
+DP-3390,Dennis Pardue,13,6,1376.1299999999999,4,2,2,8,Loyal Customers
+YS-11880,Yana Sorensen,5,6,1328.832,5,2,1,8,Loyal Customers
+FW-4395,Fred Wasserman,1,8,1220.811,5,2,1,8,Loyal Customers
+GT-4635,Grant Thornton,10,7,1145.01,5,2,1,8,Loyal Customers
+MH-8025,Michelle Huthwaite,15,9,1095.426,4,3,1,8,Loyal Customers
+MW-8235,Mitch Willingham,1,6,1070.772,5,2,1,8,Loyal Customers
+JA-5970,Joseph Airdo,1,7,1057.227,5,2,1,8,Loyal Customers
+FM-4380,Fred McMath,2,6,843.54,5,2,1,8,Loyal Customers
+GM-4440,Gary McGarr,2,8,735.216,5,2,1,8,Loyal Customers
+AG-330,Alex Grayson,3,7,532.545,5,2,1,8,Loyal Customers
+AS-225,Alan Schoenberger,3,7,469.515,5,2,1,8,Loyal Customers
+DB-12970,Darren Budd,218,11,9166.2092,1,3,3,7,Loyal Customers
+LT-7110,Liz Thompson,56,6,8234.994,2,2,3,7,Loyal Customers
+SH-9975,Sally Hughsby,65,8,8058.147,2,2,3,7,Loyal Customers
+JW-5220,Jane Waco,101,6,7184.724,2,2,3,7,Loyal Customers
+NW-8400,Natalie Webber,118,7,7046.736,2,2,3,7,Loyal Customers
+DP-3105,Dave Poirier,65,6,6970.715999999999,2,2,3,7,Loyal Customers
+FM-14380,Fred McMath,146,21,6598.3976999999995,1,3,3,7,Loyal Customers
+SM-10005,Sally Matthias,105,8,6262.38,2,2,3,7,Loyal Customers
+RA-9285,Ralph Arnett,255,14,6226.686,1,3,3,7,Loyal Customers
+BP-1230,Benjamin Patterson,84,8,6134.988,2,2,3,7,Loyal Customers
+RB-9705,Roger Barcio,150,12,6018.072,1,3,3,7,Loyal Customers
+TS-11430,Tom Stivers,119,7,5812.08,2,2,3,7,Loyal Customers
+JL-5130,Jack Lebron,198,12,5765.400000000001,1,3,3,7,Loyal Customers
+BD-1635,Brian Derr,325,9,5689.263,1,3,3,7,Loyal Customers
+CP-2085,Cathy Prescott,143,10,5585.7,1,3,3,7,Loyal Customers
+CR-2625,Corey Roper,140,9,5079.897,1,3,3,7,Loyal Customers
+NB-18580,Nicole Brennan,453,10,4875.5984,1,3,3,7,Loyal Customers
+AJ-945,Ashley Jarboe,105,7,4860.924,2,2,3,7,Loyal Customers
+AJ-960,Astrea Jones,295,10,4629.156,1,3,3,7,Loyal Customers
+RB-9330,Randy Bradley,113,8,4538.256,2,2,3,7,Loyal Customers
+SM-10320,Sean Miller,77,7,4045.638,2,2,3,7,Loyal Customers
+JC-6105,Julie Creighton,103,6,3914.94,2,2,3,7,Loyal Customers
+TH-11235,Tiffany House,231,10,3901.3469999999998,1,3,3,7,Loyal Customers
+RD-9720,Roger Demir,59,8,3833.712,2,2,3,7,Loyal Customers
+ER-3855,Elpida Rittenbach,54,7,3736.296,2,2,3,7,Loyal Customers
+CC-2475,Cindy Chapman,56,7,3709.881,2,2,3,7,Loyal Customers
+JM-5655,Jim Mitchum,123,8,3602.67,2,2,3,7,Loyal Customers
+EH-4185,Evan Henry,122,8,3577.77,2,2,3,7,Loyal Customers
+JD-6060,Julia Dunbar,141,9,3541.44,1,3,3,7,Loyal Customers
+JL-5835,John Lee,55,7,3388.275,2,2,3,7,Loyal Customers
+CA-2265,Christina Anderson,106,7,3364.638,2,2,3,7,Loyal Customers
+MH-7440,Mark Haberlin,97,8,3357.7799999999997,2,2,3,7,Loyal Customers
+HD-4785,Harold Dahlen,107,7,3325.6079999999997,2,2,3,7,Loyal Customers
+JP-5460,Jennifer Patt,189,10,3294.018,1,3,3,7,Loyal Customers
+RD-9810,Ross DeVincentis,54,7,3214.788,2,2,3,7,Loyal Customers
+TB-11400,Tom Boeckenhauer,112,9,3103.323,2,3,2,7,Loyal Customers
+BD-1620,Brian DeCherney,118,11,2919.597,2,3,2,7,Loyal Customers
+Dl-3600,Dorris liebe,112,10,2809.056,2,3,2,7,Loyal Customers
+BT-1485,Brad Thomas,98,9,2803.974,2,3,2,7,Loyal Customers
+ND-8370,Natalie DeCherney,34,6,2790.234,3,2,2,7,Loyal Customers
+PB-8805,Patrick Bzostek,121,9,2787.672,2,3,2,7,Loyal Customers
+CL-2565,Clay Ludtke,43,6,2775.636,3,2,2,7,Loyal Customers
+DE-3255,Deanra Eno,49,8,2714.49,3,2,2,7,Loyal Customers
+LR-7035,Lisa Ryan,107,9,2677.98,2,3,2,7,Loyal Customers
+JD-6015,Joy Daniels,43,8,2652.7799999999997,3,2,2,7,Loyal Customers
+AR-510,Andrew Roberts,105,10,2638.638,2,3,2,7,Loyal Customers
+EJ-4155,Eva Jacobs,23,5,2631.99,4,1,2,7,Loyal Customers
+VM-21835,Vivian Mathis,112,20,2621.817,2,3,2,7,Loyal Customers
+BN-1515,Bradley Nguyen,28,8,2606.8019999999997,3,2,2,7,Loyal Customers
+KW-6570,Kelly Williams,49,6,2577.7200000000003,3,2,2,7,Loyal Customers
+EH-3945,Eric Hoffmann,112,9,2518.74,2,3,2,7,Loyal Customers
+MW-8220,Mitch Webber,45,8,2476.497,3,2,2,7,Loyal Customers
+JH-5820,John Huston,43,7,2359.011,3,2,2,7,Loyal Customers
+SK-9990,Sally Knutson,31,7,2358.858,3,2,2,7,Loyal Customers
+SW-10755,Steven Ward,44,7,2346.906,3,2,2,7,Loyal Customers
+SC-10050,Sample Company A,43,7,2311.8540000000003,3,2,2,7,Loyal Customers
+CS-2400,Christopher Schild,12,5,2293.17,4,1,2,7,Loyal Customers
+DR-2940,Daniel Raglin,40,8,2288.4,3,2,2,7,Loyal Customers
+AH-585,Angele Hood,76,9,2232.222,2,3,2,7,Loyal Customers
+DA-3450,Dianna Arnett,15,4,2212.05,4,1,2,7,Loyal Customers
+MN-7935,Michael Nguyen,31,6,2175.33,3,2,2,7,Loyal Customers
+FO-4305,Frank Olsen,52,10,2158.446,2,3,2,7,Loyal Customers
+AB-105,Adrian Barton,44,7,2156.4,3,2,2,7,Loyal Customers
+SR-10740,Steven Roelle,22,4,2154.12,4,1,2,7,Loyal Customers
+BT-1440,Bobby Trafton,94,10,2132.565,2,3,2,7,Loyal Customers
+AR-570,Anemone Ratner,71,9,2044.278,2,3,2,7,Loyal Customers
+AR-825,Anthony Rawles,34,7,2028.9119999999998,3,2,2,7,Loyal Customers
+NF-8475,Neil Französisch,44,7,2019.006,3,2,2,7,Loyal Customers
+PF-9165,Philip Fox,35,7,2007.642,3,2,2,7,Loyal Customers
+AA-645,Anna Andreadi,52,11,1968.324,2,3,2,7,Loyal Customers
+MM-8055,Michelle Moray,34,8,1924.911,3,2,2,7,Loyal Customers
+CM-2115,Chad McGuire,21,3,1907.3700000000001,4,1,2,7,Loyal Customers
+SW-10245,Scot Wooten,23,4,1901.91,4,1,2,7,Loyal Customers
+ES-4020,Erica Smith,29,7,1892.778,3,2,2,7,Loyal Customers
+PF-9120,Peter Fuller,84,10,1882.95,2,3,2,7,Loyal Customers
+NP-8700,Nora Preis,38,6,1880.622,3,2,2,7,Loyal Customers
+PG-8820,Patrick Gardner,31,6,1846.56,3,2,2,7,Loyal Customers
+CB-2025,Cassandra Brandow,23,5,1840.8899999999999,4,1,2,7,Loyal Customers
+DN-3690,Duane Noonan,13,5,1815.954,4,1,2,7,Loyal Customers
+EB-3840,Ellis Ballard,44,6,1797.738,3,2,2,7,Loyal Customers
+NS-8640,Noel Staavos,48,8,1771.437,3,2,2,7,Loyal Customers
+DL-3315,Delfina Latchford,48,6,1746.87,3,2,2,7,Loyal Customers
+RM-9675,Robert Marley,37,8,1715.094,3,2,2,7,Loyal Customers
+JC-5775,John Castell,14,5,1712.487,4,1,2,7,Loyal Customers
+AG-900,Arthur Gainer,24,4,1699.47,4,1,2,7,Loyal Customers
+JO-5280,Jas O'Carroll,20,4,1694.8500000000001,4,1,2,7,Loyal Customers
+ML-8040,Michelle Lonsdale,45,7,1690.896,3,2,2,7,Loyal Customers
+TT-11460,Tonja Turnell,43,8,1649.784,3,2,2,7,Loyal Customers
+SB-10170,Sarah Bern,27,5,1647.24,4,1,2,7,Loyal Customers
+DS-3030,Darrin Sayre,49,6,1636.512,3,2,2,7,Loyal Customers
+CS-1860,Cari Schnelling,51,9,1618.674,2,3,2,7,Loyal Customers
+DK-3150,David Kendrick,58,14,1577.874,2,3,2,7,Loyal Customers
+AH-120,Adrian Hane,22,4,1478.0819999999999,4,1,2,7,Loyal Customers
+PM-8940,Paul MacIntyre,56,9,1448.856,2,3,2,7,Loyal Customers
+CJ-1875,Carl Jackson,33,6,1431.432,3,2,2,7,Loyal Customers
+CM-2655,Corinna Mitchell,51,12,1389.834,2,3,2,7,Loyal Customers
+LT-6765,Larry Tron,9,4,1365.33,5,1,1,7,Loyal Customers
+NP-8325,Naresj Patel,16,8,1336.686,4,2,1,7,Loyal Customers
+BT-1305,Beth Thompson,32,10,1305.96,3,3,1,7,Loyal Customers
+AT-435,Alyssa Tate,29,12,1287.993,3,3,1,7,Loyal Customers
+VM-11835,Vivian Mathis,9,3,1270.4099999999999,5,1,1,7,Loyal Customers
+VW-11775,Victoria Wilson,8,5,1253.166,5,1,1,7,Loyal Customers
+PO-9180,Philisse Overcash,30,9,1231.068,3,3,1,7,Loyal Customers
+LC-6870,Lena Cacioppo,24,8,1220.451,4,2,1,7,Loyal Customers
+CD-2280,Christina DeMoss,13,7,1205.04,4,2,1,7,Loyal Customers
+JM-6195,Justin MacKendrick,13,8,1200.492,4,2,1,7,Loyal Customers
+VS-11820,Vivek Sundaresam,23,7,1136.214,4,2,1,7,Loyal Customers
+ML-7755,Max Ludwig,27,7,1108.5,4,2,1,7,Loyal Customers
+RS-9870,Roy Skaria,21,8,1031.436,4,2,1,7,Loyal Customers
+JB-5925,Joni Blumstein,23,8,1012.092,4,2,1,7,Loyal Customers
+LP-7095,Liz Preis,1,4,1011.36,5,1,1,7,Loyal Customers
+AG-495,Andrew Gjertsen,49,11,1003.9920000000001,3,3,1,7,Loyal Customers
+DB-3555,Dorothy Badders,6,3,971.1120000000001,5,1,1,7,Loyal Customers
+LW-6825,Laurel Workman,33,11,881.754,3,3,1,7,Loyal Customers
+VM-11685,Valerie Mitchum,14,6,858.978,4,2,1,7,Loyal Customers
+VB-11745,Victoria Brennan,5,4,783.63,5,1,1,7,Loyal Customers
+AD-180,Alan Dominguez,6,3,681.288,5,1,1,7,Loyal Customers
+BO-1350,Bill Overfelt,22,6,616.236,4,2,1,7,Loyal Customers
+Dp-3240,Dean percer,26,7,609.3,4,2,1,7,Loyal Customers
+AO-810,Anthony O'Donnell,8,5,485.007,5,1,1,7,Loyal Customers
+TB-11355,Todd Boyes,15,8,438.162,4,2,1,7,Loyal Customers
+DJ-3420,Denny Joy,2,4,419.64,5,1,1,7,Loyal Customers
+TW-11025,Tamara Willingham,20,8,323.109,4,2,1,7,Loyal Customers
+CB-2535,Claudia Bergmann,8,2,147.12,5,1,1,7,Loyal Customers
+MD-7860,Michael Dominguez,104,5,6853.512,2,1,3,6,Potential Loyalists
+MT-8070,Michelle Tran,324,7,6851.922,1,2,3,6,Potential Loyalists
+PJ-9015,Pauline Johnson,197,8,6612.66,1,2,3,6,Potential Loyalists
+PV-8985,Paul Van Hugh,145,6,6390.636,1,2,3,6,Potential Loyalists
+AH-30,Aaron Hawkins,469,7,6320.0160000000005,1,2,3,6,Potential Loyalists
+RP-9390,Resi Pölking,271,7,5935.98,1,2,3,6,Potential Loyalists
+JK-5730,Joe Kamberova,484,6,5862.87,1,2,3,6,Potential Loyalists
+PB-9210,Phillip Breyer,308,7,5302.197,1,2,3,6,Potential Loyalists
+BS-1665,Brian Stugart,153,7,5101.907999999999,1,2,3,6,Potential Loyalists
+CV-2805,Cynthia Voltz,258,7,5088.852,1,2,3,6,Potential Loyalists
+DM-3345,Denise Monton,146,6,4998.42,1,2,3,6,Potential Loyalists
+NP-8685,Nora Pelletier,115,4,4994.849999999999,2,1,3,6,Potential Loyalists
+GR-4560,Georgia Rosenberg,154,6,4955.5289999999995,1,2,3,6,Potential Loyalists
+KN-6705,Kristina Nunn,124,5,4830.858,2,1,3,6,Potential Loyalists
+GP-4740,Guy Phonely,152,8,4610.103,1,2,3,6,Potential Loyalists
+HR-4770,Hallie Redmond,188,8,4550.322,1,2,3,6,Potential Loyalists
+CH-2070,Cathy Hwang,307,8,4545.6179999999995,1,2,3,6,Potential Loyalists
+JK-5625,Jim Karlsson,317,8,4364.763,1,2,3,6,Potential Loyalists
+GM-4500,Gene McClure,105,5,4298.37,2,1,3,6,Potential Loyalists
+AS-135,Adrian Shami,93,5,3978.81,2,1,3,6,Potential Loyalists
+SF-10065,Sandra Flanagan,230,8,3861.429,1,2,3,6,Potential Loyalists
+GZ-4470,Gary Zandusky,148,8,3835.626,1,2,3,6,Potential Loyalists
+BF-1080,Bart Folk,210,6,3808.17,1,2,3,6,Potential Loyalists
+JF-5565,Jill Fjeld,421,6,3776.7000000000003,1,2,3,6,Potential Loyalists
+PA-9060,Pete Armstrong,178,6,3670.581,1,2,3,6,Potential Loyalists
+RP-9855,Roy Phan,401,6,3569.139,1,2,3,6,Potential Loyalists
+JF-5190,Jamie Frazer,150,8,3510.1679999999997,1,2,3,6,Potential Loyalists
+MZ-7335,Maria Zettner,113,5,3494.226,2,1,3,6,Potential Loyalists
+RH-9600,Rob Haberlin,174,8,3340.4700000000003,1,2,3,6,Potential Loyalists
+CS-2175,Charles Sheldon,58,5,3340.098,2,1,3,6,Potential Loyalists
+LH-7155,Logan Haushalter,128,8,3228.75,1,2,3,6,Potential Loyalists
+JK-5370,Jay Kimmel,145,6,3211.452,1,2,3,6,Potential Loyalists
+CR-2580,Clay Rozendal,35,5,3057.2639999999997,3,1,2,6,Potential Loyalists
+DB-2910,Daniel Byrd,55,8,3051.18,2,2,2,6,Potential Loyalists
+BF-1020,Barry Französisch,97,7,3006.996,2,2,2,6,Potential Loyalists
+HG-4845,Harry Greene,142,9,2987.898,1,3,2,6,Potential Loyalists
+SJ-10125,Sanjit Jacobs,295,9,2961.189,1,3,2,6,Potential Loyalists
+SC-10725,Steven Cartwright,92,7,2944.494,2,2,2,6,Potential Loyalists
+FM-4215,Filia McAdams,97,6,2935.614,2,2,2,6,Potential Loyalists
+CM-2715,Craig Molinari,118,7,2838.264,2,2,2,6,Potential Loyalists
+EM-4095,Eudokia Martin,132,9,2833.56,1,3,2,6,Potential Loyalists
+LD-6855,Lela Donovan,81,8,2822.706,2,2,2,6,Potential Loyalists
+FH-4365,Fred Hopkins,167,9,2751.348,1,3,2,6,Potential Loyalists
+NG-8355,Nat Gilpin,104,7,2746.47,2,2,2,6,Potential Loyalists
+AH-195,Alan Haines,279,9,2651.565,1,3,2,6,Potential Loyalists
+SL-10155,Sara Luxemburg,167,14,2451.7799999999997,1,3,2,6,Potential Loyalists
+JF-5295,Jason Fortune-,64,8,2433.942,2,2,2,6,Potential Loyalists
+AG-675,Anna Gayman,174,10,2368.131,1,3,2,6,Potential Loyalists
+DD-3570,Dorothy Dickinson,64,8,2331.4139999999998,2,2,2,6,Potential Loyalists
+MR-7545,Mathew Reese,101,6,2325.24,2,2,2,6,Potential Loyalists
+AR-345,Alex Russell,142,9,2301.072,1,3,2,6,Potential Loyalists
+AC-615,Ann Chong,93,7,2298.432,2,2,2,6,Potential Loyalists
+KH-6360,Katherine Hughes,101,7,2221.365,2,2,2,6,Potential Loyalists
+JB-5400,Jennifer Braxton,83,7,2172.0299999999997,2,2,2,6,Potential Loyalists
+MP-8175,Mike Pelletier,91,6,2169.174,2,2,2,6,Potential Loyalists
+KT-6480,Kean Thornton,85,7,2119.74,2,2,2,6,Potential Loyalists
+JH-5985,Joseph Holt,53,7,2073.48,2,2,2,6,Potential Loyalists
+IM-5070,Irene Maddox,51,7,2064.066,2,2,2,6,Potential Loyalists
+DH-3075,Dave Hallsten,160,10,2063.682,1,3,2,6,Potential Loyalists
+TM-11490,Tony Molinari,56,8,2063.022,2,2,2,6,Potential Loyalists
+RE-9405,Ricardo Emerson,72,6,1967.403,2,2,2,6,Potential Loyalists
+AW-840,Anthony Witt,57,7,1947.0,2,2,2,6,Potential Loyalists
+ES-4080,Erin Smith,146,9,1925.544,1,3,2,6,Potential Loyalists
+TC-11475,Tony Chapman,205,9,1907.7540000000001,1,3,2,6,Potential Loyalists
+EM-4140,Eugene Moren,94,6,1900.791,2,2,2,6,Potential Loyalists
+CS-2505,Cindy Stewart,51,7,1894.5,2,2,2,6,Potential Loyalists
+TH-11115,Thea Hudgings,120,6,1870.17,2,2,2,6,Potential Loyalists
+AG-765,Anthony Garverick,115,8,1859.5320000000002,2,2,2,6,Potential Loyalists
+LC-6885,Lena Creighton,210,9,1828.086,1,3,2,6,Potential Loyalists
+LB-6795,Laurel Beltran,57,8,1796.115,2,2,2,6,Potential Loyalists
+KN-6450,Kean Nguyen,94,8,1767.282,2,2,2,6,Potential Loyalists
+PH-8790,Patricia Hirasaki,115,8,1746.8400000000001,2,2,2,6,Potential Loyalists
+AG-300,Aleksandra Gannaway,99,6,1703.31,2,2,2,6,Potential Loyalists
+BW-1110,Bart Watters,185,10,1696.83,1,3,2,6,Potential Loyalists
+DO-3645,Doug O'Connell,42,5,1689.252,3,1,2,6,Potential Loyalists
+HK-4890,Heather Kirkland,57,6,1656.966,2,2,2,6,Potential Loyalists
+TS-11340,Toby Swindell,41,5,1631.316,3,1,2,6,Potential Loyalists
+GH-4410,Gary Hansen,298,9,1610.22,1,3,2,6,Potential Loyalists
+GM-4680,Greg Matthias,73,6,1590.402,2,2,2,6,Potential Loyalists
+TB-11280,Toby Braunhardt,157,9,1574.322,1,3,2,6,Potential Loyalists
+TT-11070,Ted Trevino,38,2,1572.33,3,1,2,6,Potential Loyalists
+JM-5865,John Murray,71,6,1544.268,2,2,2,6,Potential Loyalists
+KT-6465,Kean Takahito,106,7,1532.124,2,2,2,6,Potential Loyalists
+MS-7710,Maurice Satty,64,8,1529.46,2,2,2,6,Potential Loyalists
+RS-9765,Roland Schwarz,124,6,1524.1499999999999,2,2,2,6,Potential Loyalists
+MF-8250,Monica Federle,63,6,1517.5500000000002,2,2,2,6,Potential Loyalists
+MC-7425,Mark Cousins,36,5,1489.851,3,1,2,6,Potential Loyalists
+JF-5490,Jeremy Farry,100,7,1487.385,2,2,2,6,Potential Loyalists
+MS-7530,MaryBeth Skach,52,8,1456.806,2,2,2,6,Potential Loyalists
+KA-6525,Kelly Andreada,94,7,1429.884,2,2,2,6,Potential Loyalists
+DK-3225,Dean Katz,66,8,1407.984,2,2,2,6,Potential Loyalists
+RW-9690,Robert Waldorf,99,8,1398.996,2,2,2,6,Potential Loyalists
+RR-9525,Rick Reed,90,7,1376.91,2,2,2,6,Potential Loyalists
+MD-7350,Maribeth Dona,83,6,1374.198,2,2,2,6,Potential Loyalists
+SJ-10215,Sarah Jordon,57,9,1359.252,2,3,1,6,Potential Loyalists
+MM-7920,Michael Moore,29,6,1350.03,3,2,1,6,Potential Loyalists
+SM-10950,Suzanne McNair,105,9,1336.308,2,3,1,6,Potential Loyalists
+GA-4515,George Ashbrook,36,7,1318.389,3,2,1,6,Potential Loyalists
+CS-2355,Christine Sundaresam,56,9,1307.16,2,3,1,6,Potential Loyalists
+DJ-3630,Doug Jacobs,35,6,1293.9479999999999,3,2,1,6,Potential Loyalists
+CV-2295,Christina VanderZanden,86,9,1283.241,2,3,1,6,Potential Loyalists
+VT-11700,Valerie Takahito,31,7,1271.442,3,2,1,6,Potential Loyalists
+SW-10350,Sean Wendt,101,9,1244.454,2,3,1,6,Potential Loyalists
+JK-6090,Juliana Krohn,13,5,1215.516,4,1,1,6,Potential Loyalists
+LS-7230,Lycoris Saunders,100,10,1164.348,2,3,1,6,Potential Loyalists
+SD-10485,Shirley Daniels,41,8,1157.3429999999998,3,2,1,6,Potential Loyalists
+HA-4905,Helen Abelman,14,4,1106.604,4,1,1,6,Potential Loyalists
+HE-4800,Harold Engle,37,8,1091.3220000000001,3,2,1,6,Potential Loyalists
+RD-9480,Rick Duston,48,6,1061.73,3,2,1,6,Potential Loyalists
+JR-6210,Justin Ritter,38,6,1033.29,3,2,1,6,Potential Loyalists
+AP-720,Anne Pryor,38,6,999.699,3,2,1,6,Potential Loyalists
+NS-8505,Neola Schneider,14,5,962.8530000000001,4,1,1,6,Potential Loyalists
+RM-9750,Roland Murray,41,7,929.175,3,2,1,6,Potential Loyalists
+JE-5475,Jeremy Ellison,28,8,914.178,3,2,1,6,Potential Loyalists
+DL-2925,Daniel Lacy,38,7,831.996,3,2,1,6,Potential Loyalists
+PJ-8835,Patrick Jones,43,6,801.405,3,2,1,6,Potential Loyalists
+AW-930,Arthur Wiediger,38,6,782.0550000000001,3,2,1,6,Potential Loyalists
+TC-11295,Toby Carlisle,13,5,730.908,4,1,1,6,Potential Loyalists
+BG-1740,Bruce Geld,17,4,692.454,4,1,1,6,Potential Loyalists
+EH-3990,Erica Hackney,34,6,672.489,3,2,1,6,Potential Loyalists
+CL-1890,Carl Ludwig,93,9,560.745,2,3,1,6,Potential Loyalists
+KC-6540,Kelly Collister,34,7,505.893,3,2,1,6,Potential Loyalists
+SV-10935,Susan Vittorini,12,3,487.746,4,1,1,6,Potential Loyalists
+CM-1935,Carlos Meador,49,7,459.294,3,2,1,6,Potential Loyalists
+AS-90,Adam Shillingsburg,22,4,435.204,4,1,1,6,Potential Loyalists
+SP-10545,Sibella Parks,19,4,418.32,4,1,1,6,Potential Loyalists
+BC-1125,Becky Castell,30,6,396.042,3,2,1,6,Potential Loyalists
+KC-6675,Kimberly Carter,20,3,391.842,4,1,1,6,Potential Loyalists
+RS-9420,Ricardo Sperren,34,7,385.44,3,2,1,6,Potential Loyalists
+LD-7005,Lisa DeCherney,44,6,361.686,3,2,1,6,Potential Loyalists
+PP-8955,Paul Prost,15,3,359.061,4,1,1,6,Potential Loyalists
+FG-4260,Frank Gastineau,111,9,308.211,2,3,1,6,Potential Loyalists
+BK-1260,Berenike Kampe,41,6,291.564,3,2,1,6,Potential Loyalists
+FH-4350,Fred Harton,15,3,110.481,4,1,1,6,Potential Loyalists
+SC-10680,Steve Carroll,190,4,6344.79,1,1,3,5,Potential Loyalists
+MM-7260,Magdelene Morse,132,5,5510.358,1,1,3,5,Potential Loyalists
+MG-8145,Mike Gockenbach,282,3,5229.1140000000005,1,1,3,5,Potential Loyalists
+CP-2340,Christine Phan,464,4,5044.65,1,1,3,5,Potential Loyalists
+AB-15,Aaron Bergman,413,5,4607.13,1,1,3,5,Potential Loyalists
+HM-4980,Henry MacAllister,465,5,4409.298,1,1,3,5,Potential Loyalists
+MC-7275,Marc Crier,236,5,4301.043,1,1,3,5,Potential Loyalists
+CC-2685,Craig Carroll,132,5,4019.4120000000003,1,1,3,5,Potential Loyalists
+DB-3360,Dennis Bolton,435,2,3691.53,1,1,3,5,Potential Loyalists
+RB-9465,Rick Bensley,288,3,3675.2400000000002,1,1,3,5,Potential Loyalists
+BD-1770,Bryan Davis,239,5,3405.066,1,1,3,5,Potential Loyalists
+AH-210,Alan Hwang,458,4,3277.11,1,1,3,5,Potential Loyalists
+RB-9435,Richard Bierner,217,6,3179.154,1,2,2,5,Potential Loyalists
+SC-10260,Scott Cohen,142,7,3166.518,1,2,2,5,Potential Loyalists
+RH-9495,Rick Hansen,97,3,3057.21,2,1,2,5,Potential Loyalists
+PO-8865,Patrick O'Donnell,353,6,2973.15,1,2,2,5,Potential Loyalists
+CA-1965,Carol Adams,128,8,2883.141,1,2,2,5,Potential Loyalists
+NP-8670,Nora Paige,227,6,2871.87,1,2,2,5,Potential Loyalists
+EM-3960,Eric Murdock,195,8,2855.874,1,2,2,5,Potential Loyalists
+HZ-4950,Henia Zydlo,209,6,2830.4159999999997,1,2,2,5,Potential Loyalists
+DB-3615,Doug Bickford,108,4,2824.152,2,1,2,5,Potential Loyalists
+SG-10605,Speros Goranitis,234,6,2816.067,1,2,2,5,Potential Loyalists
+AC-660,Anna Chung,120,4,2676.09,2,1,2,5,Potential Loyalists
+CS-2460,Chuck Sachs,203,8,2671.227,1,2,2,5,Potential Loyalists
+AP-915,Arthur Prichep,93,5,2668.08,2,1,2,5,Potential Loyalists
+SF-10200,Sarah Foster,142,8,2633.3160000000003,1,2,2,5,Potential Loyalists
+EH-4005,Erica Hernandez,197,7,2629.674,1,2,2,5,Potential Loyalists
+JR-5670,Jim Radford,129,6,2585.034,1,2,2,5,Potential Loyalists
+BM-1650,Brian Moss,482,8,2537.1059999999998,1,2,2,5,Potential Loyalists
+JK-6120,Julie Kriz,141,6,2513.07,1,2,2,5,Potential Loyalists
+LC-6960,Lindsay Castell,192,8,2487.402,1,2,2,5,Potential Loyalists
+SF-10965,Sylvia Foulston,181,6,2476.302,1,2,2,5,Potential Loyalists
+RL-9615,Rob Lucas,266,8,2420.226,1,2,2,5,Potential Loyalists
+EC-4050,Erin Creighton,163,7,2301.315,1,2,2,5,Potential Loyalists
+JE-5745,Joel Eaton,195,7,2275.5,1,2,2,5,Potential Loyalists
+CM-2160,Charles McCrossin,50,5,2245.92,2,1,2,5,Potential Loyalists
+JP-5520,Jeremy Pistek,113,4,2227.524,2,1,2,5,Potential Loyalists
+DM-3525,Don Miller,322,6,2191.266,1,2,2,5,Potential Loyalists
+KL-6555,Kelly Lampkin,176,7,2184.06,1,2,2,5,Potential Loyalists
+MG-7695,Maureen Gnade,336,7,2104.596,1,2,2,5,Potential Loyalists
+HF-4995,Herbert Flentye,391,8,2099.973,1,2,2,5,Potential Loyalists
+AM-360,Alice McCarthy,176,6,2035.827,1,2,2,5,Potential Loyalists
+SC-10770,Stewart Carmichael,185,7,2033.208,1,2,2,5,Potential Loyalists
+PG-8895,Paul Gonzalez,300,6,1981.302,1,2,2,5,Potential Loyalists
+KB-6240,Karen Bern,202,7,1945.32,1,2,2,5,Potential Loyalists
+SC-10440,Shaun Chance,93,4,1929.081,2,1,2,5,Potential Loyalists
+LB-6735,Larry Blacks,138,7,1897.95,1,2,2,5,Potential Loyalists
+JJ-5760,Joel Jenkins,269,6,1890.126,1,2,2,5,Potential Loyalists
+JB-6000,Joy Bell-,175,7,1881.006,1,2,2,5,Potential Loyalists
+RH-9510,Rick Huthwaite,701,7,1837.788,1,2,2,5,Potential Loyalists
+LP-7080,Liz Pelletier,185,7,1831.338,1,2,2,5,Potential Loyalists
+GB-4575,Giulietta Baptist,210,6,1821.912,1,2,2,5,Potential Loyalists
+AH-690,Anna Häberlin,59,5,1817.898,2,1,2,5,Potential Loyalists
+JS-5880,John Stevenson,209,6,1745.997,1,2,2,5,Potential Loyalists
+EJ-3720,Ed Jacobs,157,8,1727.964,1,2,2,5,Potential Loyalists
+KH-6690,Kristen Hastings,239,7,1696.014,1,2,2,5,Potential Loyalists
+RC-9960,Ryan Crowe,113,5,1639.965,2,1,2,5,Potential Loyalists
+BD-1560,Brendan Dodson,91,5,1564.02,2,1,2,5,Potential Loyalists
+FC-4245,Frank Carlisle,492,6,1540.6380000000001,1,2,2,5,Potential Loyalists
+BT-1530,Bradley Talbott,353,7,1535.781,1,2,2,5,Potential Loyalists
+EK-3795,Eileen Kiefer,213,6,1531.083,1,2,2,5,Potential Loyalists
+CC-2670,Craig Carreira,147,6,1527.5819999999999,1,2,2,5,Potential Loyalists
+PN-8775,Parhena Norris,54,5,1522.1100000000001,2,1,2,5,Potential Loyalists
+NC-8415,Nathan Cano,107,5,1503.426,2,1,2,5,Potential Loyalists
+DL-2865,Dan Lawera,203,7,1502.964,1,2,2,5,Potential Loyalists
+MT-7815,Meg Tillman,177,6,1500.588,1,2,2,5,Potential Loyalists
+SW-10275,Scott Williamson,50,5,1480.578,2,1,2,5,Potential Loyalists
+GA-4725,Guy Armstrong,71,4,1460.796,2,1,2,5,Potential Loyalists
+PM-9135,Peter McVee,302,6,1429.296,1,2,2,5,Potential Loyalists
+SG-10890,Susan Gilcrest,401,6,1424.778,1,2,2,5,Potential Loyalists
+PS-8970,Paul Stevenson,125,4,1395.948,2,1,2,5,Potential Loyalists
+TS-11085,Thais Sissman,220,8,1390.68,1,2,2,5,Potential Loyalists
+DF-3135,David Flashing,44,4,1301.652,3,1,1,5,Potential Loyalists
+SB-10185,Sarah Brown,79,7,1268.436,2,2,1,5,Potential Loyalists
+EB-4170,Evan Bailliet,55,6,1267.6200000000001,2,2,1,5,Potential Loyalists
+MH-8115,Mick Hernandez,59,7,1260.702,2,2,1,5,Potential Loyalists
+MK-7905,Michael Kennedy,150,11,1244.955,1,3,1,5,Potential Loyalists
+PW-9240,Pierre Wener,62,7,1237.53,2,2,1,5,Potential Loyalists
+CR-2820,Cyra Reiten,56,8,1188.012,2,2,1,5,Potential Loyalists
+HW-4935,Helen Wasserman,57,7,1174.824,2,2,1,5,Potential Loyalists
+CG-2520,Claire Gute,120,7,1116.204,2,2,1,5,Potential Loyalists
+KC-6255,Karen Carlisle,58,8,1094.358,2,2,1,5,Potential Loyalists
+PW-9030,Pauline Webber,58,7,1081.002,2,2,1,5,Potential Loyalists
+LE-6810,Laurel Elliston,64,6,1049.52,2,2,1,5,Potential Loyalists
+HM-4860,Harry Marie,35,4,1042.77,3,1,1,5,Potential Loyalists
+EM-3810,Eleni McCrary,59,6,1032.879,2,2,1,5,Potential Loyalists
+EH-3765,Edward Hooks,129,9,1010.382,1,3,1,5,Potential Loyalists
+MC-7845,Michael Chen,35,4,991.728,3,1,1,5,Potential Loyalists
+BS-1365,Bill Shonely,38,5,957.63,3,1,1,5,Potential Loyalists
+ST-10530,Shui Tom,96,6,943.26,2,2,1,5,Potential Loyalists
+SS-10590,Sonia Sunley,29,3,940.38,3,1,1,5,Potential Loyalists
+DB-3270,Deborah Brumfield,49,2,886.23,3,1,1,5,Potential Loyalists
+JG-5310,Jason Gross,44,5,836.994,3,1,1,5,Potential Loyalists
+PS-9045,Penelope Sewall,62,7,829.356,2,2,1,5,Potential Loyalists
+BB-990,Barry Blumstein,51,7,822.288,2,2,1,5,Potential Loyalists
+FP-4320,Frank Preis,28,5,816.582,3,1,1,5,Potential Loyalists
+HA-4920,Helen Andreada,91,6,670.674,2,2,1,5,Potential Loyalists
+MS-7770,Maxwell Schwartz,99,6,538.56,2,2,1,5,Potential Loyalists
+KD-6345,Katherine Ducich,58,6,536.46,2,2,1,5,Potential Loyalists
+ED-3885,Emily Ducich,57,8,525.474,2,2,1,5,Potential Loyalists
+RK-9300,Ralph Kennedy,29,4,519.12,3,1,1,5,Potential Loyalists
+BG-1695,Brooke Gillingham,45,5,488.84999999999997,3,1,1,5,Potential Loyalists
+DW-3585,Dorothy Wardle,29,4,461.87399999999997,3,1,1,5,Potential Loyalists
+BT-1395,Bill Tyler,34,4,448.848,3,1,1,5,Potential Loyalists
+VP-11730,Victor Preis,29,4,432.0,3,1,1,5,Potential Loyalists
+TZ-11580,Tracy Zic,49,5,403.014,3,1,1,5,Potential Loyalists
+SR-10425,Sharelle Roach,45,5,281.20799999999997,3,1,1,5,Potential Loyalists
+RB-9795,Ross Baird,31,5,255.288,3,1,1,5,Potential Loyalists
+CJ-2010,Caroline Jumper,47,3,223.56,3,1,1,5,Potential Loyalists
+KM-6660,Khloe Miller,31,3,188.544,3,1,1,5,Potential Loyalists
+JE-5715,Joe Elijah,87,7,180.29999999999998,2,2,1,5,Potential Loyalists
+MF-7665,Maureen Fritzler,49,3,161.91,3,1,1,5,Potential Loyalists
+AB-150,Aimee Bixby,399,4,3143.88,1,1,2,4,At Risk
+EB-3705,Ed Braxton,399,3,3141.63,1,1,2,4,At Risk
+BW-1200,Ben Wallace,134,4,3105.816,1,1,2,4,At Risk
+SG-10470,Sheri Gordon,129,3,3086.67,1,1,2,4,At Risk
+KM-6720,Kunst Miller,350,3,2928.654,1,1,2,4,At Risk
+JL-5505,Jeremy Lonsdale,342,3,2729.3399999999997,1,1,2,4,At Risk
+EM-4200,Evan Minnotte,152,4,2585.898,1,1,2,4,At Risk
+TR-11325,Toby Ritter,169,4,2395.716,1,1,2,4,At Risk
+NK-8490,Neil Knudson,207,4,2395.35,1,1,2,4,At Risk
+TB-11055,Ted Butterfield,325,3,2355.138,1,1,2,4,At Risk
+TC-11535,Tracy Collins,371,4,2214.9719999999998,1,1,2,4,At Risk
+DB-3660,Duane Benoit,238,3,2207.712,1,1,2,4,At Risk
+KM-6375,Katherine Murray,322,5,2124.699,1,1,2,4,At Risk
+TS-11505,Tony Sayre,288,4,2123.946,1,1,2,4,At Risk
+AA-480,Andrew Allen,315,5,2063.493,1,1,2,4,At Risk
+TS-11610,Troy Staebel,176,5,2011.14,1,1,2,4,At Risk
+JL-5850,John Lucas,698,4,2003.598,1,1,2,4,At Risk
+SB-10290,Sean Braxton,192,5,1975.404,1,1,2,4,At Risk
+TP-11415,Tom Prescott,642,4,1950.9479999999999,1,1,2,4,At Risk
+JS-5685,Jim Sink,143,5,1944.06,1,1,2,4,At Risk
+TH-11100,Thea Hendricks,254,4,1856.19,1,1,2,4,At Risk
+CD-1920,Carlos Daly,315,4,1821.219,1,1,2,4,At Risk
+RR-9315,Ralph Ritter,233,4,1820.85,1,1,2,4,At Risk
+TB-11625,Trudy Brown,399,5,1810.752,1,1,2,4,At Risk
+KH-6630,Ken Heidel,327,5,1795.866,1,1,2,4,At Risk
+SC-10230,Scot Coram,195,3,1793.907,1,1,2,4,At Risk
+MY-7380,Maribeth Yedwab,323,4,1745.5739999999998,1,1,2,4,At Risk
+CM-2445,Chuck Magee,349,4,1741.578,1,1,2,4,At Risk
+NF-8595,Nicole Fjeld,513,5,1731.936,1,1,2,4,At Risk
+SM-10905,Susan MacKendrick,133,5,1711.992,1,1,2,4,At Risk
+PS-8760,Pamela Stobb,348,5,1706.202,1,1,2,4,At Risk
+AS-240,Alan Shonely,499,5,1686.51,1,1,2,4,At Risk
+MH-7290,Marc Harrigan,738,3,1685.34,1,1,2,4,At Risk
+BS-1755,Bruce Stewart,296,5,1679.76,1,1,2,4,At Risk
+CS-2490,Cindy Schnelling,170,3,1664.13,1,1,2,4,At Risk
+MA-7560,Matt Abelman,233,4,1628.166,1,1,2,4,At Risk
+JK-5205,Jamie Kunitz,592,5,1617.6,1,1,2,4,At Risk
+AS-45,Aaron Smayling,234,3,1616.334,1,1,2,4,At Risk
+VP-11760,Victoria Pisteka,237,3,1615.662,1,1,2,4,At Risk
+CA-2055,Cathy Armstrong,259,3,1601.73,1,1,2,4,At Risk
+JS-6030,Joy Smith,219,4,1573.038,1,1,2,4,At Risk
+SC-10380,Shahid Collister,276,4,1556.16,1,1,2,4,At Risk
+MC-7590,Matt Collister,337,3,1554.06,1,1,2,4,At Risk
+NM-8520,Neoma Murray,159,1,1540.53,1,1,2,4,At Risk
+LW-7215,Luke Weiss,133,5,1522.014,1,1,2,4,At Risk
+ON-8715,Odella Nelson,460,5,1507.758,1,1,2,4,At Risk
+HH-5010,Hilary Holden,197,3,1497.57,1,1,2,4,At Risk
+CA-2775,Cynthia Arntzen,310,4,1485.897,1,1,2,4,At Risk
+SC-10695,Steve Chapman,175,4,1468.8990000000001,1,1,2,4,At Risk
+KD-6495,Keith Dawkins,399,4,1454.76,1,1,2,4,At Risk
+CM-2190,Charlotte Melton,153,4,1451.49,1,1,2,4,At Risk
+CW-1905,Carl Weiss,385,4,1436.31,1,1,2,4,At Risk
+CC-2550,Clay Cheatham,272,5,1433.3999999999999,1,1,2,4,At Risk
+PO-8850,Patrick O'Brill,128,4,1432.9859999999999,1,1,2,4,At Risk
+CL-2700,Craig Leslie,142,4,1432.374,1,1,2,4,At Risk
+SC-10845,Sung Chung,54,4,1368.1200000000001,2,1,1,4,At Risk
+MS-7365,Maribeth Schnelling,112,5,1365.54,2,1,1,4,At Risk
+JL-5175,James Lanier,125,5,1353.09,2,1,1,4,At Risk
+AM-705,Anne McFarland,137,6,1303.77,1,2,1,4,At Risk
+DK-2895,Dana Kaydos,147,6,1292.13,1,2,1,4,At Risk
+RP-9270,Rachel Payne,287,6,1274.352,1,2,1,4,At Risk
+TP-11130,Theone Pippenger,140,6,1261.449,1,2,1,4,At Risk
+NC-8535,Nick Crebassa,139,7,1250.871,1,2,1,4,At Risk
+PC-8745,Pamela Coakley,58,5,1246.56,2,1,1,4,At Risk
+DW-3540,Don Weiss,55,4,1216.587,2,1,1,4,At Risk
+HP-4815,Harold Pawlan,64,5,1196.682,2,1,1,4,At Risk
+MH-7620,Matt Hagelstein,246,7,1179.666,1,2,1,4,At Risk
+CC-2145,Charles Crestani,505,6,1158.18,1,2,1,4,At Risk
+JM-5265,Janet Molinari,121,4,1131.912,2,1,1,4,At Risk
+TS-11160,Theresa Swint,106,5,1130.07,2,1,1,4,At Risk
+HJ-4875,Heather Jas,311,6,1121.22,1,2,1,4,At Risk
+TB-11190,Thomas Brumley,115,4,1115.3700000000001,2,1,1,4,At Risk
+BP-1155,Becky Pak,262,6,1110.78,1,2,1,4,At Risk
+GT-4710,Greg Tran,56,4,1079.0639999999999,2,1,1,4,At Risk
+SG-10080,Sandra Glassco,370,6,1078.728,1,2,1,4,At Risk
+NB-8580,Nicole Brennan,429,7,1059.477,1,2,1,4,At Risk
+IL-5100,Ivan Liston,164,7,1052.808,1,2,1,4,At Risk
+ML-7395,Marina Lichtenstein,133,7,1049.4,1,2,1,4,At Risk
+CD-2790,Cynthia Delaney,132,7,1030.788,1,2,1,4,At Risk
+AC-450,Amy Cox,182,7,1026.597,1,2,1,4,At Risk
+CC-2100,Chad Cunningham,61,5,1020.048,2,1,1,4,At Risk
+BF-1275,Beth Fritzler,129,7,1009.9739999999999,1,2,1,4,At Risk
+GG-4650,Greg Guthrie,104,5,1000.422,2,1,1,4,At Risk
+LH-7020,Lisa Hazard,59,3,973.212,2,1,1,4,At Risk
+LS-7245,Lynn Smith,218,6,953.151,1,2,1,4,At Risk
+CK-2205,Chloris Kastensmidt,80,5,950.697,2,1,1,4,At Risk
+RF-9735,Roland Fjeld,119,3,950.13,2,1,1,4,At Risk
+PK-8910,Paul Knutson,122,4,948.456,2,1,1,4,At Risk
+EB-3750,Edward Becker,185,6,939.153,1,2,1,4,At Risk
+MO-7950,Michael Oakman,99,3,933.192,2,1,1,4,At Risk
+SC-10095,Sanjit Chand,226,7,918.522,1,2,1,4,At Risk
+BF-1170,Ben Ferrer,194,6,904.9200000000001,1,2,1,4,At Risk
+SP-10920,Susan Pistek,108,4,896.391,2,1,1,4,At Risk
+JM-5580,Jill Matthias,50,5,880.3230000000001,2,1,1,4,At Risk
+TP-11565,Tracy Poddar,104,5,857.37,2,1,1,4,At Risk
+FA-4230,Frank Atkinson,185,6,814.572,1,2,1,4,At Risk
+BT-1680,Brian Thompson,58,4,807.36,2,1,1,4,At Risk
+JS-5595,Jill Stevenson,680,6,806.691,1,2,1,4,At Risk
+GH-4485,Gene Hale,86,4,794.622,2,1,1,4,At Risk
+GM-4695,Greg Maxwell,223,7,791.502,1,2,1,4,At Risk
+SP-10650,Stephanie Phelps,170,6,770.895,1,2,1,4,At Risk
+GK-4620,Grace Kelly,101,4,764.601,2,1,1,4,At Risk
+PL-8925,Paul Lucas,50,3,759.21,2,1,1,4,At Risk
+JE-5610,Jim Epp,176,6,756.855,1,2,1,4,At Risk
+TZ-11445,Tom Zandusky,369,7,745.14,1,2,1,4,At Risk
+EN-3780,Edward Nazzal,206,8,734.856,1,2,1,4,At Risk
+MC-8100,Mick Crebagga,105,3,659.34,2,1,1,4,At Risk
+AA-375,Allen Armold,254,8,654.492,1,2,1,4,At Risk
+SE-10110,Sanjit Engle,79,3,613.71,2,1,1,4,At Risk
+JC-5340,Jasper Cacioppo,143,6,606.105,1,2,1,4,At Risk
+VF-11715,Vicky Freymann,95,4,602.352,2,1,1,4,At Risk
+RF-9840,Roy Französisch,139,6,571.722,1,2,1,4,At Risk
+AR-405,Allen Rosenblatt,223,6,571.11,1,2,1,4,At Risk
+MP-7965,Michael Paige,197,8,567.093,1,2,1,4,At Risk
+AR-540,Andy Reiter,222,8,561.6,1,2,1,4,At Risk
+FC-4335,Fred Chung,111,4,550.95,2,1,1,4,At Risk
+GB-4530,George Bell,114,5,525.9,2,1,1,4,At Risk
+DB-2970,Darren Budd,58,4,513.03,2,1,1,4,At Risk
+RA-9885,Ruben Ausman,126,8,503.26800000000003,1,2,1,4,At Risk
+EP-3915,Emily Phan,76,3,487.95000000000005,2,1,1,4,At Risk
+AG-390,Allen Goldenen,113,4,473.112,2,1,1,4,At Risk
+TS-11655,Trudy Schmidt,203,6,452.88,1,2,1,4,At Risk
+NB-8655,Nona Balk,111,5,434.616,2,1,1,4,At Risk
+CM-1815,Candace McMahon,62,5,431.874,2,1,1,4,At Risk
+RB-9360,Raymond Buch,94,4,404.508,2,1,1,4,At Risk
+AT-735,Annie Thurman,70,5,403.65000000000003,2,1,1,4,At Risk
+BF-1215,Benjamin Farhat,118,5,398.91900000000004,2,1,1,4,At Risk
+QJ-9255,Quincy Jones,62,5,387.051,2,1,1,4,At Risk
+DB-3210,Dean Braden,583,7,387.021,1,2,1,4,At Risk
+EM-3825,Elizabeth Moffitt,483,6,378.258,1,2,1,4,At Risk
+HG-4965,Henry Goldwyn,100,5,354.588,2,1,1,4,At Risk
+NZ-8565,Nick Zandusky,100,4,328.584,2,1,1,4,At Risk
+JW-5955,Joni Wasserman,107,2,307.8,2,1,1,4,At Risk
+DK-3090,Dave Kipp,69,3,273.76800000000003,2,1,1,4,At Risk
+CM-2235,Chris McAfee,52,5,243.03,2,1,1,4,At Risk
+KS-6300,Karen Seio,107,4,221.61,2,1,1,4,At Risk
+BB-1545,Brenda Bowman,50,5,207.228,2,1,1,4,At Risk
+TN-11040,Tanja Norvell,55,2,187.35,2,1,1,4,At Risk
+DS-3180,David Smith,72,2,185.136,2,1,1,4,At Risk
+WB-11850,William Brown,115,2,182.532,2,1,1,4,At Risk
+YC-11895,Yoseph Carroll,100,4,166.299,2,1,1,4,At Risk
+SH-10395,Shahid Hopkins,64,4,129.03,2,1,1,4,At Risk
+CS-2130,Chad Sievert,306,4,1367.268,1,1,1,3,At Risk
+BE-1455,Brad Eason,147,2,1340.31,1,1,1,3,At Risk
+JD-5790,John Dryer,300,5,1323.072,1,1,1,3,At Risk
+BE-1335,Bill Eplett,573,5,1321.1490000000001,1,1,1,3,At Risk
+SV-10365,Seth Vernon,184,5,1256.472,1,1,1,3,At Risk
+DW-3195,David Wiener,1064,4,1241.2259999999999,1,1,1,3,At Risk
+CB-2415,Christy Brittain,517,4,1232.568,1,1,1,3,At Risk
+VG-11805,Vivek Grady,136,4,1190.22,1,1,1,3,At Risk
+SZ-10035,Sam Zeldin,957,4,1164.15,1,1,1,3,At Risk
+PC-9000,Pauline Chand,573,4,1160.43,1,1,1,3,At Risk
+DL-3330,Denise Leinenbach,706,3,1159.3500000000001,1,1,1,3,At Risk
+MJ-7740,Max Jones,160,4,1136.898,1,1,1,3,At Risk
+PR-8880,Patrick Ryan,197,5,1085.6399999999999,1,1,1,3,At Risk
+CC-2430,Chuck Clark,472,2,1041.57,1,1,1,3,At Risk
+XP-11865,Xylona Preis,161,3,1011.798,1,1,1,3,At Risk
+PK-9075,Pete Kriz,495,3,992.784,1,1,1,3,At Risk
+MV-7485,Mark Van Huff,471,5,952.536,1,1,1,3,At Risk
+AI-855,Arianne Irving,204,4,919.974,1,1,1,3,At Risk
+KM-6225,Kalyca Meade,372,3,891.3629999999999,1,1,1,3,At Risk
+TB-11175,Thomas Boland,217,4,850.326,1,1,1,3,At Risk
+JM-5535,Jessica Myrick,244,5,847.827,1,1,1,3,At Risk
+LH-6900,Lena Hernandez,307,3,840.792,1,1,1,3,At Risk
+SO-10335,Sean O'Donnell,401,4,831.498,1,1,1,3,At Risk
+MC-8130,Mike Caudle,288,5,826.35,1,1,1,3,At Risk
+BS-1590,Brendan Sweed,238,5,819.4499999999999,1,1,1,3,At Risk
+KD-6270,Karen Daniels,812,1,813.06,1,1,1,3,At Risk
+MO-7500,Mary O'Rourke,282,5,810.8699999999999,1,1,1,3,At Risk
+DC-3285,Debra Catini,393,4,800.004,1,1,1,3,At Risk
+CC-2610,Corey Catlett,345,3,782.3879999999999,1,1,1,3,At Risk
+TD-10995,Tamara Dahlen,181,3,780.378,1,1,1,3,At Risk
+DL-3495,Dionis Lloyd,283,5,773.604,1,1,1,3,At Risk
+Co-2640,Corey-Lock,363,5,767.637,1,1,1,3,At Risk
+TB-11595,Troy Blackwell,163,4,752.0699999999999,1,1,1,3,At Risk
+JW-6075,Julia West,267,4,747.21,1,1,1,3,At Risk
+LH-6750,Larry Hughes,126,5,745.65,1,1,1,3,At Risk
+BF-1005,Barry Franz,735,2,732.033,1,1,1,3,At Risk
+LS-6975,Lindsay Shagiari,179,5,716.184,1,1,1,3,At Risk
+TG-11310,Toby Gnade,161,3,714.417,1,1,1,3,At Risk
+CS-1950,Carlos Soltero,136,5,714.072,1,1,1,3,At Risk
+SN-10710,Steve Nguyen,253,4,702.24,1,1,1,3,At Risk
+GD-4590,Giulietta Dortch,353,4,700.692,1,1,1,3,At Risk
+MC-7635,Matthew Clasen,665,4,695.286,1,1,1,3,At Risk
+BD-1605,Brian Dahlen,276,5,689.64,1,1,1,3,At Risk
+BV-1245,Benjamin Venier,129,3,684.264,1,1,1,3,At Risk
+DB-3120,David Bremer,359,4,671.232,1,1,1,3,At Risk
+CK-2595,Clytie Kelty,216,3,662.28,1,1,1,3,At Risk
+SH-10635,Stefanie Holloman,159,4,658.98,1,1,1,3,At Risk
+AH-465,Amy Hunt,242,4,650.826,1,1,1,3,At Risk
+TS-11205,Thomas Seio,308,3,641.646,1,1,1,3,At Risk
+CA-2310,Christine Abelman,337,5,636.0600000000001,1,1,1,3,At Risk
+KE-6420,Katrina Edelman,252,4,622.452,1,1,1,3,At Risk
+RB-9570,Rob Beeghly,447,5,586.761,1,1,1,3,At Risk
+CM-2385,Christopher Martinez,575,4,580.614,1,1,1,3,At Risk
+HL-5040,Hunter Lopez,189,4,579.336,1,1,1,3,At Risk
+RW-9630,Rob Williams,400,2,560.01,1,1,1,3,At Risk
+LF-7185,Luke Foster,178,5,556.518,1,1,1,3,At Risk
+SS-10875,Sung Shariari,251,4,556.314,1,1,1,3,At Risk
+DB-3405,Denny Blanton,558,2,548.682,1,1,1,3,At Risk
+CG-2040,Catherine Glotzbach,379,5,518.94,1,1,1,3,At Risk
+SP-10860,Sung Pak,399,2,503.496,1,1,1,3,At Risk
+GM-4455,Gary Mitchum,209,4,488.43,1,1,1,3,At Risk
+SC-10020,Sam Craven,265,4,476.334,1,1,1,3,At Risk
+BS-1380,Bill Stewart,132,5,469.458,1,1,1,3,At Risk
+LR-6915,Lena Radford,685,3,468.654,1,1,1,3,At Risk
+SJ-10500,Shirley Jackson,275,3,454.06800000000004,1,1,1,3,At Risk
+NC-8625,Noah Childs,462,2,442.32,1,1,1,3,At Risk
+JK-5640,Jim Kriz,174,4,428.43,1,1,1,3,At Risk
+KW-6435,Katrina Willman,148,4,427.28999999999996,1,1,1,3,At Risk
+SS-10515,Shirley Schmidt,675,3,424.53,1,1,1,3,At Risk
+CT-1995,Carol Triggs,784,2,422.778,1,1,1,3,At Risk
+RA-9915,Russell Applegate,140,2,420.65999999999997,1,1,1,3,At Risk
+HR-4830,Harold Ryan,149,3,391.93800000000005,1,1,1,3,At Risk
+VG-11790,Vivek Gonzalez,148,4,386.172,1,1,1,3,At Risk
+BP-1290,Beth Paige,370,4,383.34000000000003,1,1,1,3,At Risk
+AF-885,Art Foster,168,2,354.99,1,1,1,3,At Risk
+LS-7200,Luke Schmidt,384,4,340.656,1,1,1,3,At Risk
+SC-10575,Sonia Cooley,374,2,328.02,1,1,1,3,At Risk
+KN-6390,Katherine Nockton,274,3,318.72,1,1,1,3,At Risk
+MG-7650,Matthew Grinstein,496,1,301.71,1,1,1,3,At Risk
+TM-11010,Tamara Manning,243,3,300.666,1,1,1,3,At Risk
+SP-10620,Stefania Perrino,140,5,299.568,1,1,1,3,At Risk
+CY-2745,Craig Yedwab,493,4,293.034,1,1,1,3,At Risk
+TH-11550,Tracy Hopkins,390,5,283.83,1,1,1,3,At Risk
+RB-9645,Robert Barroso,240,3,282.594,1,1,1,3,At Risk
+OT-8730,Olvera Toch,243,4,265.05,1,1,1,3,At Risk
+NL-8310,Nancy Lomonaco,576,2,251.322,1,1,1,3,At Risk
+KB-6405,Katrina Bavinger,388,3,238.548,1,1,1,3,At Risk
+KB-6585,Ken Black,372,2,216.78000000000003,1,1,1,3,At Risk
+MC-7605,Matt Connell,196,2,208.41,1,1,1,3,At Risk
+JG-5805,John Grady,134,3,208.38,1,1,1,3,At Risk
+KD-6615,Ken Dana,187,3,205.98,1,1,1,3,At Risk
+JK-5325,Jason Klamczynski,461,3,203.38799999999998,1,1,1,3,At Risk
+ML-7410,Maris LaWare,170,3,193.134,1,1,1,3,At Risk
+EB-3870,Emily Burns,498,5,184.872,1,1,1,3,At Risk
+ME-8010,Michelle Ellison,393,1,160.5,1,1,1,3,At Risk
+EA-4035,Erin Ashbrook,166,3,131.808,1,1,1,3,At Risk
+BG-1035,Barry Gonzalez,601,1,124.416,1,1,1,3,At Risk
+FH-4275,Frank Hawley,135,5,113.064,1,1,1,3,At Risk
+SC-10800,Stuart Calhoun,360,2,89.286,1,1,1,3,At Risk
+DK-2985,Darren Koutras,1207,1,81.432,1,1,1,3,At Risk
+MG-7875,Michael Grace,404,1,80.19,1,1,1,3,At Risk
+MP-7470,Mark Packer,544,2,58.11,1,1,1,3,At Risk
+BD-1500,Bradley Drucker,399,3,52.047,1,1,1,3,At Risk
+RC-9825,Roy Collins,742,1,37.44,1,1,1,3,At Risk
+MG-7890,Michael Granlund,374,1,19.128,1,1,1,3,At Risk
+ZC-11910,Zuschuss Carroll,201,1,7.173,1,1,1,3,At Risk

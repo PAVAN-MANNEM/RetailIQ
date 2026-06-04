@@ -1,0 +1,6 @@
+Metric,Value
+Best Metric to Watch,MAPE
+Validation Status,Validated if MAPE is low
+MAE,52019.3
+RMSE,66888.1
+MAPE (%),11.77

@@ -1,0 +1,6 @@
+Driver,Correlation,Strength,Direction,Business_Interpretation
+Discount,-0.5959692271186531,Moderate,Negative,Higher values tend to reduce profit
+Sales,0.49019480216680517,Moderate,Positive,Higher values tend to improve profit
+Shipping_Cost,0.44940824406794005,Moderate,Positive,Higher values tend to improve profit
+Quantity,0.20144248773748663,Weak,Positive,Higher values tend to improve profit
+Quarter,0.003598494363244639,Very Weak,Positive,Higher values tend to improve profit

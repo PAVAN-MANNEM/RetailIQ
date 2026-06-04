@@ -1,0 +1,6 @@
+Metric,Value
+MAE,52019.3
+RMSE,66888.1
+MAPE (%),11.77
+Train Months,38.0
+Test Months,10.0
