@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import React, { useState, useEffect } from "react";
 import { useOutletContext } from "react-router-dom";
 import {
   Database,
@@ -13,7 +13,10 @@ import {
   CheckCircle2,
   Server,
   Clock,
-  TerminalSquare
+  TerminalSquare,
+  User,
+  Briefcase,
+  Info
 } from "lucide-react";
 
 import { Badge } from "@/components/ui/badge";
@@ -484,6 +487,46 @@ export default function Settings() {
                >
                   {clearStatus ? <><CheckCircle2 className="h-4 w-4 mr-2" /> Cache Cleared!</> : <><Trash2 className="h-4 w-4 mr-2" /> Clear Cache</>}
                </Button>
+            </div>
+         </CardContent>
+      </Card>
+
+      {/* 6. PLATFORM CREDITS & INFO (Card Format) */}
+      <Card className="w-full rounded-3xl border border-slate-800 bg-slate-950/80 shadow-2xl mt-4">
+         <CardHeader className="border-b border-slate-800/50 pb-4 mb-4">
+           <SectionTitle title="System Information & Credits" subtitle="Platform version and developer contact details." />
+         </CardHeader>
+         <CardContent>
+            <div className="flex flex-col md:flex-row items-start md:items-center justify-between bg-slate-900/50 border border-slate-800 p-5 rounded-2xl gap-4">
+               <div>
+                  <div className="flex items-center gap-2 mb-2">
+                     <Info className="h-5 w-5 text-sky-400" />
+                     <h4 className="text-white font-semibold">RetailIQ Analytics Platform v1.0.0</h4>
+                  </div>
+                  <p className="text-sm text-slate-400">
+                     Architected and developed by <span className="text-slate-200 font-medium">Mannem Pavan Sai Ram</span>
+                  </p>
+                  <p className="text-xs text-slate-500 mt-1">Software Engineer | Data Analytics Enthusiast</p>
+               </div>
+               
+               <div className="flex flex-col sm:flex-row items-center gap-3 w-full md:w-auto">
+                  <a 
+                    href="https://github.com/PAVAN-MANNEM" 
+                    target="_blank" 
+                    rel="noopener noreferrer"
+                    className="flex w-full sm:w-auto items-center justify-center h-10 px-4 rounded-xl border border-slate-700 bg-slate-900 text-sm font-medium text-slate-300 transition-colors hover:bg-slate-800 hover:text-white"
+                  >
+                    <User className="h-4 w-4 mr-2" /> GitHub
+                  </a>
+                  <a 
+                    href="https://www.linkedin.com/in/pavan-sai-ram-mannem-342430224/" 
+                    target="_blank" 
+                    rel="noopener noreferrer"
+                    className="flex w-full sm:w-auto items-center justify-center h-10 px-4 rounded-xl border border-slate-700 bg-slate-900 text-sm font-medium text-slate-300 transition-colors hover:bg-slate-800 hover:text-sky-400"
+                  >
+                    <Briefcase className="h-4 w-4 mr-2" /> LinkedIn
+                  </a>
+               </div>
             </div>
          </CardContent>
       </Card>
