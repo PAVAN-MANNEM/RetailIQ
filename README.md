@@ -226,6 +226,36 @@ The forecasting layer extends the project beyond traditional EDA and into predic
 
 ---
 
+
+# Screenshots
+
+### Executive Dashboard
+
+![Executive Dashboard](docs/screenshots/Executive-Dashboard.jpeg)
+
+### Sales Performance
+
+![Executive Dashboard](docs/screenshots/Sales-Performance.jpeg)
+
+![Executive Dashboard](docs/screenshots/Sales-Performance-1.jpeg)
+
+### Profitability
+
+![Executive Dashboard](docs/screenshots/Profitability.jpeg)
+
+### Customer Analytics
+
+![Customers](docs/screenshots/Customers.jpeg)
+
+### Product Analytics
+
+![Customers](docs/screenshots/Products.jpeg)
+
+### Geography Analytics
+
+![Geography](docs/screenshots/Geography.jpeg)
+
+
 # Repository Structure
 
 ```text
