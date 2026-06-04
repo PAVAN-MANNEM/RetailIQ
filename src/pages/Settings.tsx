@@ -15,8 +15,6 @@ import {
   Clock,
   TerminalSquare,
   User,
-  Github,
-  Linkedin,
   Code2,
 } from "lucide-react";
 import { Badge } from "@/components/ui/badge";
@@ -380,7 +378,7 @@ export default function Settings() {
                 rel="noopener noreferrer"
                 className="flex items-center justify-center gap-2 rounded-xl border border-slate-700 bg-slate-900 px-4 py-2.5 text-sm text-slate-300 transition-colors hover:border-slate-500 hover:bg-slate-800 hover:text-white"
               >
-                <Github className="h-4 w-4" />
+                <span className="font-bold text-sm">GH</span>
                 GitHub
               </a>
               <a
@@ -389,7 +387,7 @@ export default function Settings() {
                 rel="noopener noreferrer"
                 className="flex items-center justify-center gap-2 rounded-xl border border-sky-500/30 bg-sky-500/10 px-4 py-2.5 text-sm text-sky-400 transition-colors hover:border-sky-400 hover:bg-sky-500/20 hover:text-sky-300"
               >
-                <Linkedin className="h-4 w-4" />
+                <span className="font-bold text-sm">in</span>
                 LinkedIn
               </a>
             </div>
