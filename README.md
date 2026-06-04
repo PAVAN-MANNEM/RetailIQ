@@ -1,5 +1,7 @@
 # RetailIQ: Retail Business Intelligence & Analytics Platform
 
+![RetailIQ Dashboard](docs/screenshots/Executive-Dashboard.jpeg)
+
 [![Live Demo](https://img.shields.io/badge/Live-Demo-success)](https://retail-iq-eosin.vercel.app)
 
 > Transforming retail transaction data into actionable business intelligence through advanced analytics, forecasting, customer segmentation, and interactive dashboards.
