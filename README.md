@@ -318,26 +318,56 @@ RetailIQ/
 
 ---
 
-# Dataset
+# Project Highlights
 
-**Source:** Global Superstore Dataset
+- End-to-end retail analytics pipeline
+- Automated data cleaning and preprocessing
+- Comprehensive exploratory data analysis
+- 37 analytics export datasets
+- Searchable customer intelligence database
+- Searchable product intelligence database
+- Searchable Geography intelligence database
+- Executive business dashboard
+- Interactive visualizations and KPI tracking
+- React + TypeScript frontend
 
-Dataset Link:
+---
 
-https://www.kaggle.com/datasets/apoorvaappz/global-super-store-dataset
+# Key Business Insights
 
-The dataset contains:
+RetailIQ uncovers insights such as:
 
-- Orders
-- Customers
-- Products
-- Sales
-- Profit
-- Discounts
-- Shipping Information
-- Geographic Information
+- High-performing products and categories
+- Loss-making product segments
+- Geographic profit concentration
+- Discount thresholds impacting margins
+- Customer retention opportunities
+- Future sales expectations
+- Strategic growth opportunities
 
-across multiple global markets.
+---
+
+# Business Value
+
+The platform helps organizations:
+
+- Improve profitability
+- Increase customer retention
+- Optimize discount strategies
+- Improve operational efficiency
+- Identify growth opportunities
+- Make evidence-based business decisions
+
+---
+
+# Future Enhancements
+
+- Customer Lifetime Value (CLV) Modeling
+- Market Basket Analysis
+- Inventory Optimization
+- Demand Forecasting
+- Machine Learning Recommendations
+- Real-Time Data Integration
 
 ---
 
@@ -406,41 +436,26 @@ npm run preview
 
 ---
 
-# Key Business Insights
+# Dataset
 
-RetailIQ uncovers insights such as:
+**Source:** Global Superstore Dataset
 
-- High-performing products and categories
-- Loss-making product segments
-- Geographic profit concentration
-- Discount thresholds impacting margins
-- Customer retention opportunities
-- Future sales expectations
-- Strategic growth opportunities
+Dataset Link:
 
----
+https://www.kaggle.com/datasets/apoorvaappz/global-super-store-dataset
 
-# Business Value
+The dataset contains:
 
-The platform helps organizations:
+- Orders
+- Customers
+- Products
+- Sales
+- Profit
+- Discounts
+- Shipping Information
+- Geographic Information
 
-- Improve profitability
-- Increase customer retention
-- Optimize discount strategies
-- Improve operational efficiency
-- Identify growth opportunities
-- Make evidence-based business decisions
-
----
-
-# Future Enhancements
-
-- Customer Lifetime Value (CLV) Modeling
-- Market Basket Analysis
-- Inventory Optimization
-- Demand Forecasting
-- Machine Learning Recommendations
-- Real-Time Data Integration
+across multiple global markets.
 
 ---
 
