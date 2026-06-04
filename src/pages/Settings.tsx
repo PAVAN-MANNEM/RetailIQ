@@ -297,7 +297,7 @@ export default function Settings() {
               </div>
               <div className="mt-auto pt-4 border-t border-slate-800/80">
                 <Button className="w-full bg-slate-800 hover:bg-slate-700 text-white border border-slate-700 transition-colors" onClick={handleTestDownload}>
-                  <Download className="h-4 w-4 mr-2" /> Test Download ({exportFormat.toUpperCase()})
+                  <Download className="h-4 w-4 mr-2" /> Download ({exportFormat.toUpperCase()})
                 </Button>
               </div>
             </div>
@@ -346,64 +346,75 @@ export default function Settings() {
         </CardContent>
       </Card>
 
-      {/* 6. ABOUT / DEVELOPER CARD */}
-      <Card className="w-full rounded-3xl border border-slate-700 bg-gradient-to-br from-slate-900 via-slate-950 to-slate-900 shadow-2xl">
-        <CardContent className="p-8">
-          <div className="flex flex-col md:flex-row md:items-center gap-6">
-
-            {/* Avatar */}
-            <div className="flex h-16 w-16 shrink-0 items-center justify-center rounded-2xl bg-gradient-to-br from-sky-500/20 to-purple-500/20 border border-slate-700">
-              <User className="h-7 w-7 text-slate-300" />
-            </div>
-
-            {/* Info */}
-            <div className="flex-1 min-w-0">
-              <div className="flex flex-wrap items-center gap-3 mb-1">
-                <h3 className="text-lg font-semibold text-white">Mannem Pavan Sai Ram</h3>
-                <Badge className="bg-sky-500/10 text-sky-400 border border-sky-500/20 text-xs px-2 py-0.5">
-                  Platform Author
-                </Badge>
+      {/* 6. PLATFORM INFORMATION (Ultra-Premium Visuals) */}
+      <Card className="relative w-full overflow-hidden rounded-3xl border border-slate-800/60 bg-slate-950/40 shadow-[0_0_50px_-12px_rgba(14,165,233,0.15)] backdrop-blur-xl transition-all duration-500 hover:border-slate-700/80 hover:shadow-[0_0_50px_-12px_rgba(14,165,233,0.25)] mt-4">
+        
+        {/* Ambient Corner Lights */}
+        <div className="absolute -left-32 -top-32 h-64 w-64 rounded-full bg-sky-500/10 blur-[80px] pointer-events-none" />
+        <div className="absolute -bottom-32 -right-32 h-64 w-64 rounded-full bg-indigo-500/10 blur-[80px] pointer-events-none" />
+        
+        <CardContent className="relative flex flex-col md:flex-row items-center justify-between gap-8 p-8 sm:p-10">
+          
+          <div className="flex flex-col sm:flex-row items-center sm:items-start text-center sm:text-left gap-6">
+            
+            {/* Glassmorphism Icon Box */}
+            <div className="relative group shrink-0">
+              <div className="absolute inset-0 rounded-2xl bg-gradient-to-tr from-sky-500 to-indigo-500 opacity-20 blur-md transition-opacity duration-500 group-hover:opacity-40" />
+              <div className="relative flex h-16 w-16 items-center justify-center rounded-2xl border border-white/10 bg-slate-900/80 shadow-2xl backdrop-blur-sm">
+                <TerminalSquare className="h-7 w-7 text-sky-400 drop-shadow-[0_0_10px_rgba(56,189,248,0.4)]" />
               </div>
-              <p className="text-sm text-slate-400 mb-1">Software Engineer · Data Analytics Enthusiast</p>
-              <p className="text-xs text-slate-500">
-                Architected and developed <span className="text-slate-300 font-medium">RetailIQ Analytics Platform v1.0.0</span> — a full-stack business intelligence dashboard built on the Superstore dataset.
-              </p>
             </div>
-
-            {/* Links */}
-            <div className="flex flex-col sm:flex-row gap-3 shrink-0">
-              <a
-                href="https://github.com/PAVAN-MANNEM"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="flex items-center justify-center gap-2 rounded-xl border border-slate-700 bg-slate-900 px-4 py-2.5 text-sm text-slate-300 transition-colors hover:border-slate-500 hover:bg-slate-800 hover:text-white"
-              >
-                <span className="font-bold text-sm">GH</span>
-                GitHub
-              </a>
-              <a
-                href="https://www.linkedin.com/in/pavan-sai-ram-mannem-342430224/"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="flex items-center justify-center gap-2 rounded-xl border border-sky-500/30 bg-sky-500/10 px-4 py-2.5 text-sm text-sky-400 transition-colors hover:border-sky-400 hover:bg-sky-500/20 hover:text-sky-300"
-              >
-                <span className="font-bold text-sm">in</span>
-                LinkedIn
-              </a>
+            
+            {/* Title & Glowing Name text */}
+            <div className="mt-1 flex flex-col justify-center">
+              <div className="flex items-center justify-center sm:justify-start gap-3">
+                <h3 className="text-xl font-bold tracking-tight text-white drop-shadow-sm">
+                  RetailIQ Analytics
+                </h3>
+                <span className="inline-flex items-center justify-center rounded-full border border-sky-500/30 bg-sky-500/10 px-2.5 py-0.5 text-xs font-semibold tracking-wide text-sky-400 shadow-[0_0_10px_-2px_rgba(56,189,248,0.2)]">
+                  v1.0.0
+                </span>
+              </div>
+              
+              <div className="mt-2 text-sm text-slate-400 font-medium">
+                Architected and Developed by{' '}
+                <span className="relative inline-block mt-1 sm:mt-0">
+                  {/* Layer 1: Blurred background glow */}
+                  <span className="absolute inset-0 bg-gradient-to-r from-sky-400 via-indigo-400 to-purple-400 bg-clip-text text-transparent blur-sm opacity-50 select-none">
+                    Pavan Mannem
+                  </span>
+                  {/* Layer 2: Crisp foreground text */}
+                  <span className="relative bg-gradient-to-r from-sky-400 via-indigo-400 to-purple-400 bg-clip-text text-transparent font-extrabold tracking-wide drop-shadow-sm">
+                    Pavan Mannem
+                  </span>
+                </span>
+              </div>
             </div>
-
           </div>
 
-          {/* Divider + stack info */}
-          <div className="mt-6 pt-5 border-t border-slate-800 flex flex-wrap items-center gap-2">
-            <Code2 className="h-4 w-4 text-slate-500 shrink-0" />
-            <span className="text-xs text-slate-500 mr-1">Built with</span>
-            {["React", "TypeScript", "Tailwind CSS", "Recharts", "Vite"].map((tech) => (
-              <span key={tech} className="rounded-lg border border-slate-800 bg-slate-900 px-2.5 py-1 text-xs text-slate-400">
-                {tech}
-              </span>
-            ))}
+          {/* Premium Hover Buttons */}
+          <div className="flex w-full md:w-auto flex-col sm:flex-row items-center gap-4">
+            <a
+              href="https://github.com/PAVAN-MANNEM"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="group relative flex w-full sm:w-auto items-center justify-center gap-2.5 rounded-xl border border-slate-700/80 bg-slate-900/80 px-6 py-3 text-sm font-semibold text-slate-300 shadow-lg backdrop-blur-sm transition-all duration-300 hover:-translate-y-0.5 hover:border-slate-500 hover:bg-slate-800 hover:text-white hover:shadow-slate-900/50"
+            >
+              <Code2 className="h-4 w-4 text-slate-400 transition-colors group-hover:text-white" />
+              GitHub
+            </a>
+
+            <a
+              href="https://www.linkedin.com/in/pavan-sai-ram-mannem-342430224/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="group relative flex w-full sm:w-auto items-center justify-center gap-2.5 rounded-xl border border-sky-500/40 bg-sky-500/10 px-6 py-3 text-sm font-semibold text-sky-300 shadow-[0_0_15px_-3px_rgba(14,165,233,0.15)] backdrop-blur-sm transition-all duration-300 hover:-translate-y-0.5 hover:border-sky-400/80 hover:bg-sky-500/20 hover:text-sky-100 hover:shadow-[0_0_20px_-3px_rgba(14,165,233,0.3)]"
+            >
+              <User className="h-4 w-4 text-sky-400 transition-colors group-hover:text-sky-200" />
+              LinkedIn
+            </a>
           </div>
+
         </CardContent>
       </Card>
 
