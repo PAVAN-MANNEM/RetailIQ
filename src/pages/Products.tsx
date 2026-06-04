@@ -368,9 +368,9 @@ export default function Products() {
             {/* Suggestion Dropdown Panel */}
             {showDropdown && filteredProductsList.length > 0 && (
               <div className="absolute top-[110%] left-0 w-full bg-slate-900 border border-slate-600 rounded-2xl shadow-2xl z-[999] max-h-80 overflow-y-auto outline outline-1 outline-slate-800">
-                 {filteredProductsList.map((prod: any) => (
+                 {filteredProductsList.map((prod: any, index: number) => (
                     <div 
-                      key={prod.id} 
+                      key={`${prod.id}-${index}`}
                       className="px-5 py-4 hover:bg-slate-800 cursor-pointer flex justify-between items-center transition-colors border-b border-slate-800/50 last:border-0"
                       onClick={() => handleSelectProduct(prod)}
                     >
@@ -546,8 +546,8 @@ export default function Products() {
         <CardContent className="flex-1 min-h-0">
           <p className="text-xs text-slate-500 uppercase tracking-widest mb-3">Showing Top 50 Products in Selection</p>
           <div className="h-[400px] w-full overflow-y-auto pr-3 space-y-2 scrollbar-thin scrollbar-thumb-slate-700 scrollbar-track-transparent">
-             {hierarchicalProducts.length > 0 ? hierarchicalProducts.map(p => (
-                <div key={p.id} className="p-4 bg-slate-900/50 border border-slate-800 rounded-xl flex justify-between items-center transition-colors hover:bg-slate-800/50">
+             {hierarchicalProducts.length > 0 ? hierarchicalProducts.map((p, index) => (
+                <div key={`${p.id}-${index}`} className="p-4 bg-slate-900/50 border border-slate-800 rounded-xl flex justify-between items-center transition-colors hover:bg-slate-800/50">
                    <div className="min-w-0 pr-4">
                       <p className="text-sm font-medium text-white truncate" title={p.name}>{p.name}</p>
                       <p className="text-xs text-slate-400 mt-1">{p.category} &gt; {p.subCategory}</p>

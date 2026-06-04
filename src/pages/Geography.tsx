@@ -220,8 +220,8 @@ function GlobalMap({ type }: { type: "sales" | "profit" }) {
         <ComposableMap projection="geoMercator" projectionConfig={{ scale: 140 }}>
           <ZoomableGroup center={[0, 20]} minZoom={1} maxZoom={8}>
             <Geographies geography="https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json">
-              {(geographies: any) =>
-                geographies.map((geo : any) => (
+              {({ geographies }: any) =>
+                geographies.map((geo: any) => (
                   <GeoPath
                     key={geo.rsmKey}
                     geography={geo}
@@ -230,6 +230,7 @@ function GlobalMap({ type }: { type: "sales" | "profit" }) {
                     strokeWidth={0.5}
                     onMouseEnter={() => {
                       const data = getCountryData(geo.properties.name);
+
                       if (data) {
                         setTooltip({
                           content: data.Country,
@@ -240,10 +241,19 @@ function GlobalMap({ type }: { type: "sales" | "profit" }) {
                         });
                       }
                     }}
-                    onMouseLeave={() => setTooltip((prev) => ({ ...prev, visible: false }))}
+                    onMouseLeave={() =>
+                      setTooltip((prev) => ({
+                        ...prev,
+                        visible: false,
+                      }))
+                    }
                     style={{
                       default: { outline: "none" },
-                      hover: { fill: "#fcd34d", outline: "none", cursor: "pointer" },
+                      hover: {
+                        fill: "#fcd34d",
+                        outline: "none",
+                        cursor: "pointer",
+                      },
                       pressed: { outline: "none" },
                     }}
                   />
