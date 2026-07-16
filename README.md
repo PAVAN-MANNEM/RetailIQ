@@ -376,7 +376,7 @@ The platform helps organizations:
 ## Clone Repository
 
 ```bash
-git clone https://github.com/your-username/retailiq.git
+git clone https://github.com/PAVAN-MANNEM/RetailIQ.git
 cd retailiq
 ```
 
